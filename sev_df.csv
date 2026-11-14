@@ -1,0 +1,905 @@
+,file,label,path,patient_id,gender,gestational_age,birth_weight,plurality,delivery_mode,categories,severity,ROP,fold,y
+623,215_2021-12-01_R_16.jpg,Stage 1 ROP,Image\Stage 1 ROP\215_2021-12-01_R_16.jpg,215,male,30,1250,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+624,275_2008-10-22_R_14.jpg,Stage 1 ROP,Image\Stage 1 ROP\275_2008-10-22_R_14.jpg,275,female,31,1400,2,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+625,276_2019-10-09_L_11.jpg,Stage 1 ROP,Image\Stage 1 ROP\276_2019-10-09_L_11.jpg,276,female,36,1900,1,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+626,276_2019-10-09_R_27.jpg,Stage 1 ROP,Image\Stage 1 ROP\276_2019-10-09_R_27.jpg,276,female,36,1900,1,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+627,277_2022-12-27_R_37.jpg,Stage 1 ROP,Image\Stage 1 ROP\277_2022-12-27_R_37.jpg,277,male,33,1950,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+628,277_2023-01-06_L_14.jpg,Stage 1 ROP,Image\Stage 1 ROP\277_2023-01-06_L_14.jpg,277,male,33,1950,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+629,278_2015-02-11_R_22.jpg,Stage 1 ROP,Image\Stage 1 ROP\278_2015-02-11_R_22.jpg,278,female,29,1300,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+630,279_2022-09-22_L_11.jpg,Stage 1 ROP,Image\Stage 1 ROP\279_2022-09-22_L_11.jpg,279,female,27,888,1,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+631,279_2022-09-22_R_33.jpg,Stage 1 ROP,Image\Stage 1 ROP\279_2022-09-22_R_33.jpg,279,female,27,888,1,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+632,280_2014-10-08_L_31.jpg,Stage 1 ROP,Image\Stage 1 ROP\280_2014-10-08_L_31.jpg,280,male,26,748,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+633,281_2008-06-23_L_29.jpg,Stage 1 ROP,Image\Stage 1 ROP\281_2008-06-23_L_29.jpg,281,male,29,1200,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+634,281_2008-07-02_R_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\281_2008-07-02_R_10.jpg,281,male,29,1200,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+635,282_2021-07-01_R_24.jpg,Stage 1 ROP,Image\Stage 1 ROP\282_2021-07-01_R_24.jpg,282,female,24,600,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+636,283_2019-10-09_R_23.jpg,Stage 1 ROP,Image\Stage 1 ROP\283_2019-10-09_R_23.jpg,283,male,30,1100,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+637,284_2016-09-21_R_40.jpg,Stage 1 ROP,Image\Stage 1 ROP\284_2016-09-21_R_40.jpg,284,male,28,1050,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+638,285_2022-06-09_L_16.jpg,Stage 1 ROP,Image\Stage 1 ROP\285_2022-06-09_L_16.jpg,285,female,27,840,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+639,286_2020-06-05_L_14.jpg,Stage 1 ROP,Image\Stage 1 ROP\286_2020-06-05_L_14.jpg,286,female,27,900,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+640,287_2008-10-22_L_16.jpg,Stage 1 ROP,Image\Stage 1 ROP\287_2008-10-22_L_16.jpg,287,female,33,1300,2,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+641,288_2022-04-21_R_41.jpg,Stage 1 ROP,Image\Stage 1 ROP\288_2022-04-21_R_41.jpg,288,male,26,770,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+642,289_2023-01-09_R_41.jpg,Stage 1 ROP,Image\Stage 1 ROP\289_2023-01-09_R_41.jpg,289,male,26,900,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+643,290_2019-11-20_L_5.jpg,Stage 1 ROP,Image\Stage 1 ROP\290_2019-11-20_L_5.jpg,290,female,27,750,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+644,290_2019-11-20_R_19.jpg,Stage 1 ROP,Image\Stage 1 ROP\290_2019-11-20_R_19.jpg,290,female,27,750,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+645,291_2023-07-13_L_3.jpg,Stage 1 ROP,Image\Stage 1 ROP\291_2023-07-13_L_3.jpg,291,female,27,930,2,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+646,291_2023-07-13_R_18.jpg,Stage 1 ROP,Image\Stage 1 ROP\291_2023-07-13_R_18.jpg,291,female,27,930,2,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+647,292_2022-11-27_R_29.jpg,Stage 1 ROP,Image\Stage 1 ROP\292_2022-11-27_R_29.jpg,292,female,30,580,1,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+648,293_2019-07-02_R_167.jpg,Stage 1 ROP,Image\Stage 1 ROP\293_2019-07-02_R_167.jpg,293,male,26,850,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+649,294_2023-01-11_L_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\294_2023-01-11_L_10.jpg,294,male,29,1280,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+650,294_2023-01-11_R_28.jpg,Stage 1 ROP,Image\Stage 1 ROP\294_2023-01-11_R_28.jpg,294,male,29,1280,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+651,295_2019-07-31_R_67.jpg,Stage 1 ROP,Image\Stage 1 ROP\295_2019-07-31_R_67.jpg,295,female,33,1810,2,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+652,296_2008-04-09_R_11.jpg,Stage 1 ROP,Image\Stage 1 ROP\296_2008-04-09_R_11.jpg,296,male,28,1140,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+653,297_2006-03-22_R_25.jpg,Stage 1 ROP,Image\Stage 1 ROP\297_2006-03-22_R_25.jpg,297,male,29,1230,2,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+654,298_2023-09-20_L_21.jpg,Stage 1 ROP,Image\Stage 1 ROP\298_2023-09-20_L_21.jpg,298,male,27,1120,2,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+655,299_2008-06-07_L_95.jpg,Stage 1 ROP,Image\Stage 1 ROP\299_2008-06-07_L_95.jpg,299,male,28,920,2,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+656,2_2008-10-15_L_38.jpg,Stage 1 ROP,Image\Stage 1 ROP\2_2008-10-15_L_38.jpg,2,male,32,1600,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+657,2_2008-10-15_R_16.jpg,Stage 1 ROP,Image\Stage 1 ROP\2_2008-10-15_R_16.jpg,2,male,32,1600,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+658,300_2009-11-04_R_14.jpg,Stage 1 ROP,Image\Stage 1 ROP\300_2009-11-04_R_14.jpg,300,female,28,1080,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+659,301_2023-07-26_R_32.jpg,Stage 1 ROP,Image\Stage 1 ROP\301_2023-07-26_R_32.jpg,301,male,32,2750,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+660,302_2008-10-08_R_5.jpg,Stage 1 ROP,Image\Stage 1 ROP\302_2008-10-08_R_5.jpg,302,female,34,1830,1,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+661,303_2020-05-13_R_79.jpg,Stage 1 ROP,Image\Stage 1 ROP\303_2020-05-13_R_79.jpg,303,male,27,940,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+662,304_2020-07-08_R_31.jpg,Stage 1 ROP,Image\Stage 1 ROP\304_2020-07-08_R_31.jpg,304,male,29,1230,2,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+663,305_2015-02-04_R_111.jpg,Stage 1 ROP,Image\Stage 1 ROP\305_2015-02-04_R_111.jpg,305,male,29,1660,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+664,306_2021-05-08_L_11.jpg,Stage 1 ROP,Image\Stage 1 ROP\306_2021-05-08_L_11.jpg,306,female,27,1000,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+665,306_2021-05-08_R_21.jpg,Stage 1 ROP,Image\Stage 1 ROP\306_2021-05-08_R_21.jpg,306,female,27,1000,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+666,307_2014-08-20_R_21.jpg,Stage 1 ROP,Image\Stage 1 ROP\307_2014-08-20_R_21.jpg,307,male,28,1160,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+667,308_2023-07-12_R_38.jpg,Stage 1 ROP,Image\Stage 1 ROP\308_2023-07-12_R_38.jpg,308,male,30,950,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+668,309_2022-09-21_R_31.jpg,Stage 1 ROP,Image\Stage 1 ROP\309_2022-09-21_R_31.jpg,309,male,35,2540,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+669,309_2022-10-18_L_1.jpg,Stage 1 ROP,Image\Stage 1 ROP\309_2022-10-18_L_1.jpg,309,male,35,2540,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+670,310_2022-11-03_L_12.jpg,Stage 1 ROP,Image\Stage 1 ROP\310_2022-11-03_L_12.jpg,310,female,26,800,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+671,311_2019-12-04_L_11.jpg,Stage 1 ROP,Image\Stage 1 ROP\311_2019-12-04_L_11.jpg,311,female,25,780,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+672,311_2020-01-08_R_33.jpg,Stage 1 ROP,Image\Stage 1 ROP\311_2020-01-08_R_33.jpg,311,female,25,780,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+673,312_2019-08-28_R_32.jpg,Stage 1 ROP,Image\Stage 1 ROP\312_2019-08-28_R_32.jpg,312,male,29,1250,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+674,313_2011-11-02_L_29.jpg,Stage 1 ROP,Image\Stage 1 ROP\313_2011-11-02_L_29.jpg,313,male,27,1200,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+675,314_2022-03-17_L_19.jpg,Stage 1 ROP,Image\Stage 1 ROP\314_2022-03-17_L_19.jpg,314,female,29,1210,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+676,314_2022-03-17_R_67.jpg,Stage 1 ROP,Image\Stage 1 ROP\314_2022-03-17_R_67.jpg,314,female,29,1210,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+677,315_2018-02-07_R_11.jpg,Stage 1 ROP,Image\Stage 1 ROP\315_2018-02-07_R_11.jpg,315,male,24,780,2,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+678,316_2019-08-14_R_48.jpg,Stage 1 ROP,Image\Stage 1 ROP\316_2019-08-14_R_48.jpg,316,male,26,1010,2,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+679,317_2019-06-05_R_62.jpg,Stage 1 ROP,Image\Stage 1 ROP\317_2019-06-05_R_62.jpg,317,male,32,1770,2,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+680,318_2021-04-28_R_23.jpg,Stage 1 ROP,Image\Stage 1 ROP\318_2021-04-28_R_23.jpg,318,female,31,1300,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+681,319_2009-12-30_R_9.jpg,Stage 1 ROP,Image\Stage 1 ROP\319_2009-12-30_R_9.jpg,319,female,31,1600,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+682,320_2018-08-01_R_22.jpg,Stage 1 ROP,Image\Stage 1 ROP\320_2018-08-01_R_22.jpg,320,male,25,680,2,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+683,321_2008-12-31_L_15.jpg,Stage 1 ROP,Image\Stage 1 ROP\321_2008-12-31_L_15.jpg,321,male,33,1500,3,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+684,321_2009-01-14_R_13.jpg,Stage 1 ROP,Image\Stage 1 ROP\321_2009-01-14_R_13.jpg,321,male,33,1500,3,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+685,322_2022-04-20_L_17.jpg,Stage 1 ROP,Image\Stage 1 ROP\322_2022-04-20_L_17.jpg,322,male,26,850,2,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+686,322_2022-04-20_R_30.jpg,Stage 1 ROP,Image\Stage 1 ROP\322_2022-04-20_R_30.jpg,322,male,26,850,2,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+687,323_2023-01-18_L_5.jpg,Stage 1 ROP,Image\Stage 1 ROP\323_2023-01-18_L_5.jpg,323,male,26,980,2,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+688,324_2022-03-15_L_2.jpg,Stage 1 ROP,Image\Stage 1 ROP\324_2022-03-15_L_2.jpg,324,male,25,690,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+689,324_2022-03-15_R_20.jpg,Stage 1 ROP,Image\Stage 1 ROP\324_2022-03-15_R_20.jpg,324,male,25,690,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+690,325_2023-07-31_R_55.jpg,Stage 1 ROP,Image\Stage 1 ROP\325_2023-07-31_R_55.jpg,325,male,27,1140,2,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+691,325_2023-09-20_L_15.jpg,Stage 1 ROP,Image\Stage 1 ROP\325_2023-09-20_L_15.jpg,325,male,27,1140,2,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+692,326_2008-05-19_R_64.jpg,Stage 1 ROP,Image\Stage 1 ROP\326_2008-05-19_R_64.jpg,326,male,28,930,2,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+693,327_2017-03-29_R_17.jpg,Stage 1 ROP,Image\Stage 1 ROP\327_2017-03-29_R_17.jpg,327,female,26,800,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+694,328_2007-11-14_R_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\328_2007-11-14_R_10.jpg,328,male,29,1200,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+695,329_2023-01-11_R_49.jpg,Stage 1 ROP,Image\Stage 1 ROP\329_2023-01-11_R_49.jpg,329,male,25,700,1,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+696,330_2019-01-16_R_29.jpg,Stage 1 ROP,Image\Stage 1 ROP\330_2019-01-16_R_29.jpg,330,male,27,900,2,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+697,331_2023-09-06_L_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\331_2023-09-06_L_10.jpg,331,male,30,980,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+698,331_2023-09-06_R_38.jpg,Stage 1 ROP,Image\Stage 1 ROP\331_2023-09-06_R_38.jpg,331,male,30,980,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+699,332_2009-05-06_L_23.jpg,Stage 1 ROP,Image\Stage 1 ROP\332_2009-05-06_L_23.jpg,332,female,28,1200,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+700,333_2022-04-13_R_45.jpg,Stage 1 ROP,Image\Stage 1 ROP\333_2022-04-13_R_45.jpg,333,male,32,1500,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+701,334_2007-10-17_R_12.jpg,Stage 1 ROP,Image\Stage 1 ROP\334_2007-10-17_R_12.jpg,334,male,37,840,3,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+702,335_2019-08-14_R_74.jpg,Stage 1 ROP,Image\Stage 1 ROP\335_2019-08-14_R_74.jpg,335,male,26,960,2,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+703,336_2020-09-16_L_17.jpg,Stage 1 ROP,Image\Stage 1 ROP\336_2020-09-16_L_17.jpg,336,female,28,2300,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+704,336_2020-09-16_R_26.jpg,Stage 1 ROP,Image\Stage 1 ROP\336_2020-09-16_R_26.jpg,336,female,28,2300,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+705,337_2021-09-15_R_41.jpg,Stage 1 ROP,Image\Stage 1 ROP\337_2021-09-15_R_41.jpg,337,male,30,1420,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+706,338_2018-03-07_R_18.jpg,Stage 1 ROP,Image\Stage 1 ROP\338_2018-03-07_R_18.jpg,338,male,31,970,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+707,339_2021-08-04_L_12.jpg,Stage 1 ROP,Image\Stage 1 ROP\339_2021-08-04_L_12.jpg,339,female,37,3450,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+708,339_2021-08-04_R_40.jpg,Stage 1 ROP,Image\Stage 1 ROP\339_2021-08-04_R_40.jpg,339,female,37,3450,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+709,340_2016-09-07_R_40.jpg,Stage 1 ROP,Image\Stage 1 ROP\340_2016-09-07_R_40.jpg,340,female,26,900,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+710,341_2008-03-26_L_11.jpg,Stage 1 ROP,Image\Stage 1 ROP\341_2008-03-26_L_11.jpg,341,male,28,1000,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+711,341_2008-03-26_R_4.jpg,Stage 1 ROP,Image\Stage 1 ROP\341_2008-03-26_R_4.jpg,341,male,28,1000,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+712,342_2021-07-13_L_14.jpg,Stage 1 ROP,Image\Stage 1 ROP\342_2021-07-13_L_14.jpg,342,male,30,1420,2,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+713,343_2021-12-22_L_6.jpg,Stage 1 ROP,Image\Stage 1 ROP\343_2021-12-22_L_6.jpg,343,female,41,2800,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+714,344_2023-06-28_R_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\344_2023-06-28_R_10.jpg,344,male,28,980,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+715,344_2023-07-26_L_19.jpg,Stage 1 ROP,Image\Stage 1 ROP\344_2023-07-26_L_19.jpg,344,male,28,980,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+716,345_2016-04-20_R_12.jpg,Stage 1 ROP,Image\Stage 1 ROP\345_2016-04-20_R_12.jpg,345,male,27,1600,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+717,346_2009-01-21_R_3.jpg,Stage 1 ROP,Image\Stage 1 ROP\346_2009-01-21_R_3.jpg,346,male,30,970,1,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+718,347_2013-05-29_L_20.jpg,Stage 1 ROP,Image\Stage 1 ROP\347_2013-05-29_L_20.jpg,347,male,28,1210,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+719,347_2013-05-29_R_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\347_2013-05-29_R_10.jpg,347,male,28,1210,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+720,348_2010-05-28_L_36.jpg,Stage 1 ROP,Image\Stage 1 ROP\348_2010-05-28_L_36.jpg,348,male,32,1490,2,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+721,349_2013-06-30_L_15.jpg,Stage 1 ROP,Image\Stage 1 ROP\349_2013-06-30_L_15.jpg,349,male,26,970,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+722,349_2013-06-30_R_2.jpg,Stage 1 ROP,Image\Stage 1 ROP\349_2013-06-30_R_2.jpg,349,male,26,970,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+723,350_2023-04-26_L_3.jpg,Stage 1 ROP,Image\Stage 1 ROP\350_2023-04-26_L_3.jpg,350,male,27,900,2,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+724,351_2021-12-29_L_5.jpg,Stage 1 ROP,Image\Stage 1 ROP\351_2021-12-29_L_5.jpg,351,male,27,770,2,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+725,352_2023-02-15_R_37.jpg,Stage 1 ROP,Image\Stage 1 ROP\352_2023-02-15_R_37.jpg,352,female,27,1000,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+726,353_2020-05-06_L_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\353_2020-05-06_L_10.jpg,353,male,39,3750,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+727,354_2019-03-22_R_133.jpg,Stage 1 ROP,Image\Stage 1 ROP\354_2019-03-22_R_133.jpg,354,male,26,840,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+728,355_2021-09-29_L_17.jpg,Stage 1 ROP,Image\Stage 1 ROP\355_2021-09-29_L_17.jpg,355,male,26,800,2,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+729,356_2021-07-14_R_32.jpg,Stage 1 ROP,Image\Stage 1 ROP\356_2021-07-14_R_32.jpg,356,female,30,1500,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+730,357_2019-07-31_R_35.jpg,Stage 1 ROP,Image\Stage 1 ROP\357_2019-07-31_R_35.jpg,357,male,24,805,2,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+731,358_2014-05-28_R_16.jpg,Stage 1 ROP,Image\Stage 1 ROP\358_2014-05-28_R_16.jpg,358,male,26,1050,2,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+732,359_2022-04-20_R_50.jpg,Stage 1 ROP,Image\Stage 1 ROP\359_2022-04-20_R_50.jpg,359,female,29,1250,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+733,360_2009-08-05_L_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\360_2009-08-05_L_10.jpg,360,female,31,1050,1,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+734,361_2022-04-20_L_20.jpg,Stage 1 ROP,Image\Stage 1 ROP\361_2022-04-20_L_20.jpg,361,male,30,1520,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+735,361_2022-04-20_R_35.jpg,Stage 1 ROP,Image\Stage 1 ROP\361_2022-04-20_R_35.jpg,361,male,30,1520,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+736,362_2016-03-16_R_13.jpg,Stage 1 ROP,Image\Stage 1 ROP\362_2016-03-16_R_13.jpg,362,male,34,1700,2,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+737,363_2008-05-14_R_4.jpg,Stage 1 ROP,Image\Stage 1 ROP\363_2008-05-14_R_4.jpg,363,male,35,2050,1,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+738,364_2023-10-30_L_4.jpg,Stage 1 ROP,Image\Stage 1 ROP\364_2023-10-30_L_4.jpg,364,female,32,1520,1,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+739,365_2021-12-22_R_49.jpg,Stage 1 ROP,Image\Stage 1 ROP\365_2021-12-22_R_49.jpg,365,male,29,1100,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+740,365_2022-02-09_L_11.jpg,Stage 1 ROP,Image\Stage 1 ROP\365_2022-02-09_L_11.jpg,365,male,29,1100,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+741,366_2022-05-25_L_44.jpg,Stage 1 ROP,Image\Stage 1 ROP\366_2022-05-25_L_44.jpg,366,female,28,1020,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+742,367_2016-03-02_R_9.jpg,Stage 1 ROP,Image\Stage 1 ROP\367_2016-03-02_R_9.jpg,367,male,31,1600,1,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+743,368_2013-05-22_L_17.jpg,Stage 1 ROP,Image\Stage 1 ROP\368_2013-05-22_L_17.jpg,368,female,34,1900,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+744,368_2013-05-22_R_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\368_2013-05-22_R_10.jpg,368,female,34,1900,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+745,369_2007-04-11_L_13.jpg,Stage 1 ROP,Image\Stage 1 ROP\369_2007-04-11_L_13.jpg,369,female,32,1300,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+746,369_2007-04-11_R_2.jpg,Stage 1 ROP,Image\Stage 1 ROP\369_2007-04-11_R_2.jpg,369,female,32,1300,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+747,370_2022-09-21_R_33.jpg,Stage 1 ROP,Image\Stage 1 ROP\370_2022-09-21_R_33.jpg,370,female,24,605,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+748,371_2021-09-29_R_42.jpg,Stage 1 ROP,Image\Stage 1 ROP\371_2021-09-29_R_42.jpg,371,male,26,850,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+749,371_2021-10-20_L_16.jpg,Stage 1 ROP,Image\Stage 1 ROP\371_2021-10-20_L_16.jpg,371,male,26,850,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+750,372_2022-08-18_R_39.jpg,Stage 1 ROP,Image\Stage 1 ROP\372_2022-08-18_R_39.jpg,372,male,27,1050,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+751,372_2022-09-01_L_6.jpg,Stage 1 ROP,Image\Stage 1 ROP\372_2022-09-01_L_6.jpg,372,male,27,1050,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+752,373_2008-05-28_R_26.jpg,Stage 1 ROP,Image\Stage 1 ROP\373_2008-05-28_R_26.jpg,373,male,31,1300,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+753,374_2023-03-15_L_9.jpg,Stage 1 ROP,Image\Stage 1 ROP\374_2023-03-15_L_9.jpg,374,female,30,1430,2,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+754,374_2023-03-15_R_31.jpg,Stage 1 ROP,Image\Stage 1 ROP\374_2023-03-15_R_31.jpg,374,female,30,1430,2,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+755,375_2009-03-04_L_14.jpg,Stage 1 ROP,Image\Stage 1 ROP\375_2009-03-04_L_14.jpg,375,male,29,1250,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+756,376_2021-04-03_L_5.jpg,Stage 1 ROP,Image\Stage 1 ROP\376_2021-04-03_L_5.jpg,376,male,31,1150,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+757,377_2008-10-15_L_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\377_2008-10-15_L_10.jpg,377,male,29,1170,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+758,377_2008-10-15_R_3.jpg,Stage 1 ROP,Image\Stage 1 ROP\377_2008-10-15_R_3.jpg,377,male,29,1170,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+759,378_2014-04-23_R_5.jpg,Stage 1 ROP,Image\Stage 1 ROP\378_2014-04-23_R_5.jpg,378,male,31,1750,2,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+760,379_2008-12-31_L_25.jpg,Stage 1 ROP,Image\Stage 1 ROP\379_2008-12-31_L_25.jpg,379,male,31,1600,2,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+761,380_2008-01-30_R_2.jpg,Stage 1 ROP,Image\Stage 1 ROP\380_2008-01-30_R_2.jpg,380,male,29,1350,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+762,381_2019-04-03_R_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\381_2019-04-03_R_10.jpg,381,male,29,1360,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+763,381_2019-08-29_L_8.jpg,Stage 1 ROP,Image\Stage 1 ROP\381_2019-08-29_L_8.jpg,381,male,29,1360,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+764,382_2021-09-14_L_28.jpg,Stage 1 ROP,Image\Stage 1 ROP\382_2021-09-14_L_28.jpg,382,male,26,820,1,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+765,383_2022-04-27_L_5.jpg,Stage 1 ROP,Image\Stage 1 ROP\383_2022-04-27_L_5.jpg,383,male,24,650,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+766,384_2022-06-15_L_11.jpg,Stage 1 ROP,Image\Stage 1 ROP\384_2022-06-15_L_11.jpg,384,female,27,1100,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+767,385_2021-02-22_L_22.jpg,Stage 1 ROP,Image\Stage 1 ROP\385_2021-02-22_L_22.jpg,385,female,29,1300,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+768,385_2021-02-22_R_58.jpg,Stage 1 ROP,Image\Stage 1 ROP\385_2021-02-22_R_58.jpg,385,female,29,1300,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+769,386_2016-11-10_R_46.jpg,Stage 1 ROP,Image\Stage 1 ROP\386_2016-11-10_R_46.jpg,386,female,28,860,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+770,387_2022-07-06_L_16.jpg,Stage 1 ROP,Image\Stage 1 ROP\387_2022-07-06_L_16.jpg,387,female,30,750,2,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+771,388_2021-02-10_L_6.jpg,Stage 1 ROP,Image\Stage 1 ROP\388_2021-02-10_L_6.jpg,388,male,27,980,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+772,388_2021-03-03_R_28.jpg,Stage 1 ROP,Image\Stage 1 ROP\388_2021-03-03_R_28.jpg,388,male,27,980,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+773,389_2022-05-11_L_11.jpg,Stage 1 ROP,Image\Stage 1 ROP\389_2022-05-11_L_11.jpg,389,female,25,590,2,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+774,389_2022-05-11_R_30.jpg,Stage 1 ROP,Image\Stage 1 ROP\389_2022-05-11_R_30.jpg,389,female,25,590,2,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+775,390_2020-05-06_L_9.jpg,Stage 1 ROP,Image\Stage 1 ROP\390_2020-05-06_L_9.jpg,390,female,26,880,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+776,391_2022-05-05_L_2.jpg,Stage 1 ROP,Image\Stage 1 ROP\391_2022-05-05_L_2.jpg,391,male,28,1060,2,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+777,391_2022-05-05_R_36.jpg,Stage 1 ROP,Image\Stage 1 ROP\391_2022-05-05_R_36.jpg,391,male,28,1060,2,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+778,392_2008-12-24_L_15.jpg,Stage 1 ROP,Image\Stage 1 ROP\392_2008-12-24_L_15.jpg,392,male,31,1500,2,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+779,392_2009-01-21_R_2.jpg,Stage 1 ROP,Image\Stage 1 ROP\392_2009-01-21_R_2.jpg,392,male,31,1500,2,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+780,393_2017-10-11_R_42.jpg,Stage 1 ROP,Image\Stage 1 ROP\393_2017-10-11_R_42.jpg,393,male,28,1250,1,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+781,394_2023-04-06_L_12.jpg,Stage 1 ROP,Image\Stage 1 ROP\394_2023-04-06_L_12.jpg,394,male,30,1180,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+782,395_2008-02-13_L_27.jpg,Stage 1 ROP,Image\Stage 1 ROP\395_2008-02-13_L_27.jpg,395,male,32,1800,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+783,395_2008-02-27_R_3.jpg,Stage 1 ROP,Image\Stage 1 ROP\395_2008-02-27_R_3.jpg,395,male,32,1800,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+784,396_2020-09-16_L_4.jpg,Stage 1 ROP,Image\Stage 1 ROP\396_2020-09-16_L_4.jpg,396,male,26,750,2,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+785,396_2020-09-16_R_39.jpg,Stage 1 ROP,Image\Stage 1 ROP\396_2020-09-16_R_39.jpg,396,male,26,750,2,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+786,397_2023-09-15_R_19.jpg,Stage 1 ROP,Image\Stage 1 ROP\397_2023-09-15_R_19.jpg,397,female,27,680,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+787,397_2023-09-29_L_4.jpg,Stage 1 ROP,Image\Stage 1 ROP\397_2023-09-29_L_4.jpg,397,female,27,680,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+788,398_2022-09-13_L_7.jpg,Stage 1 ROP,Image\Stage 1 ROP\398_2022-09-13_L_7.jpg,398,male,23,560,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+789,399_2022-08-25_R_38.jpg,Stage 1 ROP,Image\Stage 1 ROP\399_2022-08-25_R_38.jpg,399,male,30,1300,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+790,400_2019-06-12_R_21.jpg,Stage 1 ROP,Image\Stage 1 ROP\400_2019-06-12_R_21.jpg,400,male,26,810,3,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+791,401_2015-03-11_R_12.jpg,Stage 1 ROP,Image\Stage 1 ROP\401_2015-03-11_R_12.jpg,401,male,29,1200,2,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+792,402_2013-01-16_L_14.jpg,Stage 1 ROP,Image\Stage 1 ROP\402_2013-01-16_L_14.jpg,402,female,29,1170,2,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+793,403_2023-01-04_L_9.jpg,Stage 1 ROP,Image\Stage 1 ROP\403_2023-01-04_L_9.jpg,403,female,28,820,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+794,404_2022-08-31_L_4.jpg,Stage 1 ROP,Image\Stage 1 ROP\404_2022-08-31_L_4.jpg,404,female,29,1100,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+795,405_2022-11-24_L_16.jpg,Stage 1 ROP,Image\Stage 1 ROP\405_2022-11-24_L_16.jpg,405,male,25,660,2,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+796,405_2022-11-24_R_39.jpg,Stage 1 ROP,Image\Stage 1 ROP\405_2022-11-24_R_39.jpg,405,male,25,660,2,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+797,406_2020-07-01_L_1.jpg,Stage 1 ROP,Image\Stage 1 ROP\406_2020-07-01_L_1.jpg,406,male,28,1060,2,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+798,407_2022-04-21_R_31.jpg,Stage 1 ROP,Image\Stage 1 ROP\407_2022-04-21_R_31.jpg,407,male,35,2050,1,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+799,408_2022-02-17_L_19.jpg,Stage 1 ROP,Image\Stage 1 ROP\408_2022-02-17_L_19.jpg,408,female,32,1020,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+800,409_2014-04-09_R_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\409_2014-04-09_R_10.jpg,409,female,28,1100,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+801,410_2020-07-15_L_21.jpg,Stage 1 ROP,Image\Stage 1 ROP\410_2020-07-15_L_21.jpg,410,male,26,600,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+802,410_2020-07-15_R_48.jpg,Stage 1 ROP,Image\Stage 1 ROP\410_2020-07-15_R_48.jpg,410,male,26,600,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+803,411_2022-11-02_L_1.jpg,Stage 1 ROP,Image\Stage 1 ROP\411_2022-11-02_L_1.jpg,411,male,25,760,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+804,411_2022-12-07_R_35.jpg,Stage 1 ROP,Image\Stage 1 ROP\411_2022-12-07_R_35.jpg,411,male,25,760,1,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+805,412_2006-09-08_L_12.jpg,Stage 1 ROP,Image\Stage 1 ROP\412_2006-09-08_L_12.jpg,412,female,28,1000,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+806,413_2023-01-18_L_19.jpg,Stage 1 ROP,Image\Stage 1 ROP\413_2023-01-18_L_19.jpg,413,female,29,910,2,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+807,413_2023-01-18_R_35.jpg,Stage 1 ROP,Image\Stage 1 ROP\413_2023-01-18_R_35.jpg,413,female,29,910,2,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+808,414_2022-06-02_L_9.jpg,Stage 1 ROP,Image\Stage 1 ROP\414_2022-06-02_L_9.jpg,414,male,31,1490,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+809,414_2022-06-02_R_95.jpg,Stage 1 ROP,Image\Stage 1 ROP\414_2022-06-02_R_95.jpg,414,male,31,1490,2,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+810,415_2019-01-23_R_101.jpg,Stage 1 ROP,Image\Stage 1 ROP\415_2019-01-23_R_101.jpg,415,male,25,900,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+811,416_2019-12-11_R_76.jpg,Stage 1 ROP,Image\Stage 1 ROP\416_2019-12-11_R_76.jpg,416,male,27,950,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+812,417_2022-03-31_L_7.jpg,Stage 1 ROP,Image\Stage 1 ROP\417_2022-03-31_L_7.jpg,417,male,25,780,2,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+813,417_2022-03-31_R_58.jpg,Stage 1 ROP,Image\Stage 1 ROP\417_2022-03-31_R_58.jpg,417,male,25,780,2,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+814,418_2023-06-12_L_24.jpg,Stage 1 ROP,Image\Stage 1 ROP\418_2023-06-12_L_24.jpg,418,male,26,690,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+815,419_2021-08-04_R_66.jpg,Stage 1 ROP,Image\Stage 1 ROP\419_2021-08-04_R_66.jpg,419,male,25,880,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+816,419_2021-08-18_L_18.jpg,Stage 1 ROP,Image\Stage 1 ROP\419_2021-08-18_L_18.jpg,419,male,25,880,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+817,420_2021-03-30_L_15.jpg,Stage 1 ROP,Image\Stage 1 ROP\420_2021-03-30_L_15.jpg,420,female,26,720,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+818,420_2021-03-30_R_52.jpg,Stage 1 ROP,Image\Stage 1 ROP\420_2021-03-30_R_52.jpg,420,female,26,720,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+819,421_2008-10-22_L_15.jpg,Stage 1 ROP,Image\Stage 1 ROP\421_2008-10-22_L_15.jpg,421,male,28,1300,2,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+820,422_2013-08-14_L_17.jpg,Stage 1 ROP,Image\Stage 1 ROP\422_2013-08-14_L_17.jpg,422,male,28,1100,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+821,422_2013-08-14_R_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\422_2013-08-14_R_10.jpg,422,male,28,1100,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+822,423_2015-05-06_R_41.jpg,Stage 1 ROP,Image\Stage 1 ROP\423_2015-05-06_R_41.jpg,423,female,30,1170,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+823,424_2023-03-22_R_31.jpg,Stage 1 ROP,Image\Stage 1 ROP\424_2023-03-22_R_31.jpg,424,male,31,1470,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+824,425_2019-11-20_R_20.jpg,Stage 1 ROP,Image\Stage 1 ROP\425_2019-11-20_R_20.jpg,425,female,28,1008,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+825,426_2023-05-10_R_64.jpg,Stage 1 ROP,Image\Stage 1 ROP\426_2023-05-10_R_64.jpg,426,male,39,2600,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+826,427_2020-11-18_L_13.jpg,Stage 1 ROP,Image\Stage 1 ROP\427_2020-11-18_L_13.jpg,427,female,28,900,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+827,428_2021-09-28_L_7.jpg,Stage 1 ROP,Image\Stage 1 ROP\428_2021-09-28_L_7.jpg,428,male,25,690,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+828,428_2021-10-21_R_26.jpg,Stage 1 ROP,Image\Stage 1 ROP\428_2021-10-21_R_26.jpg,428,male,25,690,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+829,429_2021-04-21_L_5.jpg,Stage 1 ROP,Image\Stage 1 ROP\429_2021-04-21_L_5.jpg,429,female,30,1450,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+830,430_2018-10-10_L_19.jpg,Stage 1 ROP,Image\Stage 1 ROP\430_2018-10-10_L_19.jpg,430,male,27,900,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+831,430_2018-10-10_R_11.jpg,Stage 1 ROP,Image\Stage 1 ROP\430_2018-10-10_R_11.jpg,430,male,27,900,1,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+832,431_2023-04-04_L_26.jpg,Stage 1 ROP,Image\Stage 1 ROP\431_2023-04-04_L_26.jpg,431,male,28,1000,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+833,431_2023-04-19_R_24.jpg,Stage 1 ROP,Image\Stage 1 ROP\431_2023-04-19_R_24.jpg,431,male,28,1000,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+834,432_2019-11-13_R_19.jpg,Stage 1 ROP,Image\Stage 1 ROP\432_2019-11-13_R_19.jpg,432,female,29,2300,2,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+835,433_2022-11-09_L_22.jpg,Stage 1 ROP,Image\Stage 1 ROP\433_2022-11-09_L_22.jpg,433,male,25,760,2,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+836,434_2021-07-27_L_3.jpg,Stage 1 ROP,Image\Stage 1 ROP\434_2021-07-27_L_3.jpg,434,male,30,1450,2,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+837,435_2023-06-08_L_12.jpg,Stage 1 ROP,Image\Stage 1 ROP\435_2023-06-08_L_12.jpg,435,female,34,2130,1,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+838,436_2014-04-16_L_23.jpg,Stage 1 ROP,Image\Stage 1 ROP\436_2014-04-16_L_23.jpg,436,female,28,1035,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+839,437_2023-08-23_L_27.jpg,Stage 1 ROP,Image\Stage 1 ROP\437_2023-08-23_L_27.jpg,437,female,24,620,1,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+840,438_2023-03-08_R_29.jpg,Stage 1 ROP,Image\Stage 1 ROP\438_2023-03-08_R_29.jpg,438,female,25,710,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+841,438_2023-04-12_L_18.jpg,Stage 1 ROP,Image\Stage 1 ROP\438_2023-04-12_L_18.jpg,438,female,25,710,1,vaginally,Stage 1 ROP,Mild ROP,1,0,0
+842,439_2019-01-23_R_5.jpg,Stage 1 ROP,Image\Stage 1 ROP\439_2019-01-23_R_5.jpg,439,female,31,4200,3,cesarean section,Stage 1 ROP,Mild ROP,1,1,0
+843,440_2022-05-12_L_5.jpg,Stage 1 ROP,Image\Stage 1 ROP\440_2022-05-12_L_5.jpg,440,female,30,1300,1,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+844,440_2022-05-12_R_46.jpg,Stage 1 ROP,Image\Stage 1 ROP\440_2022-05-12_R_46.jpg,440,female,30,1300,1,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+845,441_2023-10-25_L_26.jpg,Stage 1 ROP,Image\Stage 1 ROP\441_2023-10-25_L_26.jpg,441,male,24,740,1,cesarean section,Stage 1 ROP,Mild ROP,1,2,0
+846,442_2023-05-17_L_12.jpg,Stage 1 ROP,Image\Stage 1 ROP\442_2023-05-17_L_12.jpg,442,female,30,1450,2,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+847,442_2023-05-17_R_23.jpg,Stage 1 ROP,Image\Stage 1 ROP\442_2023-05-17_R_23.jpg,442,female,30,1450,2,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+848,443_2019-10-30_R_33.jpg,Stage 1 ROP,Image\Stage 1 ROP\443_2019-10-30_R_33.jpg,443,male,27,743,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+849,444_2022-12-28_L_25.jpg,Stage 1 ROP,Image\Stage 1 ROP\444_2022-12-28_L_25.jpg,444,male,36,2490,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+850,445_2023-09-06_R_36.jpg,Stage 1 ROP,Image\Stage 1 ROP\445_2023-09-06_R_36.jpg,445,male,30,1350,2,cesarean section,Stage 1 ROP,Mild ROP,1,3,0
+851,446_2007-11-23_L_65.jpg,Stage 1 ROP,Image\Stage 1 ROP\446_2007-11-23_L_65.jpg,446,male,26,1000,2,vaginally,Stage 1 ROP,Mild ROP,1,1,0
+852,447_2022-05-17_L_19.jpg,Stage 1 ROP,Image\Stage 1 ROP\447_2022-05-17_L_19.jpg,447,male,27,900,2,cesarean section,Stage 1 ROP,Mild ROP,1,4,0
+853,448_2020-06-17_R_17.jpg,Stage 1 ROP,Image\Stage 1 ROP\448_2020-06-17_R_17.jpg,448,male,25,758,2,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+854,56_2020-12-30_L_5.jpg,Stage 1 ROP,Image\Stage 1 ROP\56_2020-12-30_L_5.jpg,56,female,27,860,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+855,56_2020-12-30_R_35.jpg,Stage 1 ROP,Image\Stage 1 ROP\56_2020-12-30_R_35.jpg,56,female,27,860,1,vaginally,Stage 1 ROP,Mild ROP,1,4,0
+856,67_2022-01-05_R_42.jpg,Stage 1 ROP,Image\Stage 1 ROP\67_2022-01-05_R_42.jpg,67,female,25,710,1,vaginally,Stage 1 ROP,Mild ROP,1,2,0
+857,70_2022-04-14_R_33.jpg,Stage 1 ROP,Image\Stage 1 ROP\70_2022-04-14_R_33.jpg,70,male,25,770,2,vaginally,Stage 1 ROP,Mild ROP,1,3,0
+858,98_2022-07-21_L_10.jpg,Stage 1 ROP,Image\Stage 1 ROP\98_2022-07-21_L_10.jpg,98,female,27,700,1,cesarean section,Stage 1 ROP,Mild ROP,1,0,0
+859,173_2015-07-29_R_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\173_2015-07-29_R_11.jpg,173,male,27,950,2,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+860,173_2015-07-29_R_13.jpg,Stage 2 ROP,Image\Stage 2 ROP\173_2015-07-29_R_13.jpg,173,male,27,950,2,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+861,240_2014-04-28_L_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\240_2014-04-28_L_25.jpg,240,male,28,920,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+862,24_2011-06-01_L_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\24_2011-06-01_L_25.jpg,24,male,27,909,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+863,272_2019-08-14_R_20.jpg,Stage 2 ROP,Image\Stage 2 ROP\272_2019-08-14_R_20.jpg,272,female,27,910,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+864,278_2015-02-11_R_24.jpg,Stage 2 ROP,Image\Stage 2 ROP\278_2015-02-11_R_24.jpg,278,female,29,1300,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+865,279_2022-09-22_R_31.jpg,Stage 2 ROP,Image\Stage 2 ROP\279_2022-09-22_R_31.jpg,279,female,27,888,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+866,284_2016-09-09_R_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\284_2016-09-09_R_11.jpg,284,male,28,1050,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+867,286_2020-06-05_L_6.jpg,Stage 2 ROP,Image\Stage 2 ROP\286_2020-06-05_L_6.jpg,286,female,27,900,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+868,291_2023-07-13_R_15.jpg,Stage 2 ROP,Image\Stage 2 ROP\291_2023-07-13_R_15.jpg,291,female,27,930,2,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+869,298_2023-09-20_L_15.jpg,Stage 2 ROP,Image\Stage 2 ROP\298_2023-09-20_L_15.jpg,298,male,27,1120,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+870,298_2023-09-20_R_29.jpg,Stage 2 ROP,Image\Stage 2 ROP\298_2023-09-20_R_29.jpg,298,male,27,1120,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+871,300_2009-11-04_R_15.jpg,Stage 2 ROP,Image\Stage 2 ROP\300_2009-11-04_R_15.jpg,300,female,28,1080,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+872,301_2023-07-26_L_14.jpg,Stage 2 ROP,Image\Stage 2 ROP\301_2023-07-26_L_14.jpg,301,male,32,2750,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+873,301_2023-07-26_R_29.jpg,Stage 2 ROP,Image\Stage 2 ROP\301_2023-07-26_R_29.jpg,301,male,32,2750,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+874,304_2020-06-24_L_3.jpg,Stage 2 ROP,Image\Stage 2 ROP\304_2020-06-24_L_3.jpg,304,male,29,1230,2,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+875,304_2020-07-08_R_32.jpg,Stage 2 ROP,Image\Stage 2 ROP\304_2020-07-08_R_32.jpg,304,male,29,1230,2,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+876,305_2015-02-04_R_171.jpg,Stage 2 ROP,Image\Stage 2 ROP\305_2015-02-04_R_171.jpg,305,male,29,1660,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+877,306_2021-05-19_L_13.jpg,Stage 2 ROP,Image\Stage 2 ROP\306_2021-05-19_L_13.jpg,306,female,27,1000,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+878,306_2021-05-19_R_36.jpg,Stage 2 ROP,Image\Stage 2 ROP\306_2021-05-19_R_36.jpg,306,female,27,1000,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+879,307_2014-08-20_R_22.jpg,Stage 2 ROP,Image\Stage 2 ROP\307_2014-08-20_R_22.jpg,307,male,28,1160,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+880,312_2019-08-28_R_102.jpg,Stage 2 ROP,Image\Stage 2 ROP\312_2019-08-28_R_102.jpg,312,male,29,1250,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+881,315_2018-01-24_R_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\315_2018-01-24_R_16.jpg,315,male,24,780,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+882,315_2018-01-24_R_19.jpg,Stage 2 ROP,Image\Stage 2 ROP\315_2018-01-24_R_19.jpg,315,male,24,780,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+883,32_2019-02-13_R_12.jpg,Stage 2 ROP,Image\Stage 2 ROP\32_2019-02-13_R_12.jpg,32,female,28,1060,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+884,333_2022-04-13_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\333_2022-04-13_L_10.jpg,333,male,32,1500,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+885,333_2022-04-13_R_30.jpg,Stage 2 ROP,Image\Stage 2 ROP\333_2022-04-13_R_30.jpg,333,male,32,1500,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+886,340_2016-09-07_R_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\340_2016-09-07_R_16.jpg,340,female,26,900,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+887,341_2008-04-02_R_2.jpg,Stage 2 ROP,Image\Stage 2 ROP\341_2008-04-02_R_2.jpg,341,male,28,1000,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+888,341_2008-04-09_L_24.jpg,Stage 2 ROP,Image\Stage 2 ROP\341_2008-04-09_L_24.jpg,341,male,28,1000,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+889,345_2016-04-20_R_19.jpg,Stage 2 ROP,Image\Stage 2 ROP\345_2016-04-20_R_19.jpg,345,male,27,1600,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+890,350_2023-04-26_L_4.jpg,Stage 2 ROP,Image\Stage 2 ROP\350_2023-04-26_L_4.jpg,350,male,27,900,2,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+891,350_2023-05-24_R_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\350_2023-05-24_R_25.jpg,350,male,27,900,2,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+892,354_2019-03-22_R_130.jpg,Stage 2 ROP,Image\Stage 2 ROP\354_2019-03-22_R_130.jpg,354,male,26,840,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+893,355_2021-11-03_L_15.jpg,Stage 2 ROP,Image\Stage 2 ROP\355_2021-11-03_L_15.jpg,355,male,26,800,2,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+894,355_2021-11-03_R_17.jpg,Stage 2 ROP,Image\Stage 2 ROP\355_2021-11-03_R_17.jpg,355,male,26,800,2,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+895,356_2021-07-14_L_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\356_2021-07-14_L_16.jpg,356,female,30,1500,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+896,356_2021-07-14_R_24.jpg,Stage 2 ROP,Image\Stage 2 ROP\356_2021-07-14_R_24.jpg,356,female,30,1500,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+897,359_2022-04-20_R_51.jpg,Stage 2 ROP,Image\Stage 2 ROP\359_2022-04-20_R_51.jpg,359,female,29,1250,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+898,359_2022-05-18_L_3.jpg,Stage 2 ROP,Image\Stage 2 ROP\359_2022-05-18_L_3.jpg,359,female,29,1250,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+899,35_2022-09-30_R_21.jpg,Stage 2 ROP,Image\Stage 2 ROP\35_2022-09-30_R_21.jpg,35,male,30,1450,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+900,368_2013-07-03_L_13.jpg,Stage 2 ROP,Image\Stage 2 ROP\368_2013-07-03_L_13.jpg,368,female,34,1900,2,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+901,380_2008-01-30_R_3.jpg,Stage 2 ROP,Image\Stage 2 ROP\380_2008-01-30_R_3.jpg,380,male,29,1350,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+902,385_2021-02-21_L_2.jpg,Stage 2 ROP,Image\Stage 2 ROP\385_2021-02-21_L_2.jpg,385,female,29,1300,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+903,385_2021-02-21_R_40.jpg,Stage 2 ROP,Image\Stage 2 ROP\385_2021-02-21_R_40.jpg,385,female,29,1300,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+904,387_2022-05-18_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\387_2022-05-18_L_10.jpg,387,female,30,750,2,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+905,388_2021-02-10_L_15.jpg,Stage 2 ROP,Image\Stage 2 ROP\388_2021-02-10_L_15.jpg,388,male,27,980,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+906,388_2021-02-10_R_22.jpg,Stage 2 ROP,Image\Stage 2 ROP\388_2021-02-10_R_22.jpg,388,male,27,980,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+907,389_2022-05-11_L_19.jpg,Stage 2 ROP,Image\Stage 2 ROP\389_2022-05-11_L_19.jpg,389,female,25,590,2,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+908,389_2022-05-11_R_21.jpg,Stage 2 ROP,Image\Stage 2 ROP\389_2022-05-11_R_21.jpg,389,female,25,590,2,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+909,390_2020-04-23_L_14.jpg,Stage 2 ROP,Image\Stage 2 ROP\390_2020-04-23_L_14.jpg,390,female,26,880,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+910,390_2020-04-23_R_41.jpg,Stage 2 ROP,Image\Stage 2 ROP\390_2020-04-23_R_41.jpg,390,female,26,880,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+911,396_2020-07-22_L_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\396_2020-07-22_L_16.jpg,396,male,26,750,2,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+912,396_2020-07-22_R_52.jpg,Stage 2 ROP,Image\Stage 2 ROP\396_2020-07-22_R_52.jpg,396,male,26,750,2,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+913,407_2022-05-19_R_29.jpg,Stage 2 ROP,Image\Stage 2 ROP\407_2022-05-19_R_29.jpg,407,male,35,2050,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+914,408_2022-02-17_L_35.jpg,Stage 2 ROP,Image\Stage 2 ROP\408_2022-02-17_L_35.jpg,408,female,32,1020,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+915,410_2020-07-03_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\410_2020-07-03_L_10.jpg,410,male,26,600,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+916,410_2020-07-03_R_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\410_2020-07-03_R_16.jpg,410,male,26,600,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+917,418_2023-05-23_R_30.jpg,Stage 2 ROP,Image\Stage 2 ROP\418_2023-05-23_R_30.jpg,418,male,26,690,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+918,418_2023-06-09_L_6.jpg,Stage 2 ROP,Image\Stage 2 ROP\418_2023-06-09_L_6.jpg,418,male,26,690,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+919,419_2021-08-04_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\419_2021-08-04_L_10.jpg,419,male,25,880,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+920,419_2021-08-04_R_45.jpg,Stage 2 ROP,Image\Stage 2 ROP\419_2021-08-04_R_45.jpg,419,male,25,880,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+921,421_2008-10-22_L_14.jpg,Stage 2 ROP,Image\Stage 2 ROP\421_2008-10-22_L_14.jpg,421,male,28,1300,2,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+922,429_2021-04-21_R_21.jpg,Stage 2 ROP,Image\Stage 2 ROP\429_2021-04-21_R_21.jpg,429,female,30,1450,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+923,430_2018-10-31_L_48.jpg,Stage 2 ROP,Image\Stage 2 ROP\430_2018-10-31_L_48.jpg,430,male,27,900,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+924,430_2018-10-31_R_13.jpg,Stage 2 ROP,Image\Stage 2 ROP\430_2018-10-31_R_13.jpg,430,male,27,900,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+925,440_2022-05-12_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\440_2022-05-12_L_10.jpg,440,female,30,1300,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+926,440_2022-05-12_R_38.jpg,Stage 2 ROP,Image\Stage 2 ROP\440_2022-05-12_R_38.jpg,440,female,30,1300,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+927,441_2023-10-25_L_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\441_2023-10-25_L_25.jpg,441,male,24,740,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+928,442_2023-05-17_L_19.jpg,Stage 2 ROP,Image\Stage 2 ROP\442_2023-05-17_L_19.jpg,442,female,30,1450,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+929,442_2023-05-17_R_33.jpg,Stage 2 ROP,Image\Stage 2 ROP\442_2023-05-17_R_33.jpg,442,female,30,1450,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+930,444_2022-12-28_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\444_2022-12-28_L_10.jpg,444,male,36,2490,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+931,444_2022-12-28_R_41.jpg,Stage 2 ROP,Image\Stage 2 ROP\444_2022-12-28_R_41.jpg,444,male,36,2490,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+932,445_2023-09-06_R_42.jpg,Stage 2 ROP,Image\Stage 2 ROP\445_2023-09-06_R_42.jpg,445,male,30,1350,2,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+933,448_2020-06-17_R_20.jpg,Stage 2 ROP,Image\Stage 2 ROP\448_2020-06-17_R_20.jpg,448,male,25,758,2,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+934,448_2020-06-17_R_30.jpg,Stage 2 ROP,Image\Stage 2 ROP\448_2020-06-17_R_30.jpg,448,male,25,758,2,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+935,449_2019-02-01_R_3.jpg,Stage 2 ROP,Image\Stage 2 ROP\449_2019-02-01_R_3.jpg,449,female,26,800,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+936,450_2020-01-08_R_37.jpg,Stage 2 ROP,Image\Stage 2 ROP\450_2020-01-08_R_37.jpg,450,female,28,1100,2,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+937,451_2014-04-09_L_33.jpg,Stage 2 ROP,Image\Stage 2 ROP\451_2014-04-09_L_33.jpg,451,female,28,1240,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+938,451_2014-04-09_R_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\451_2014-04-09_R_16.jpg,451,female,28,1240,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+939,452_2021-09-15_R_23.jpg,Stage 2 ROP,Image\Stage 2 ROP\452_2021-09-15_R_23.jpg,452,male,23,498,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+940,453_2022-12-14_L_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\453_2022-12-14_L_11.jpg,453,male,36,3140,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+941,454_2023-03-24_L_2.jpg,Stage 2 ROP,Image\Stage 2 ROP\454_2023-03-24_L_2.jpg,454,female,27,1010,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+942,454_2023-03-24_R_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\454_2023-03-24_R_16.jpg,454,female,27,1010,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+943,455_2023-09-13_L_13.jpg,Stage 2 ROP,Image\Stage 2 ROP\455_2023-09-13_L_13.jpg,455,male,26,850,2,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+944,456_2023-09-15_L_8.jpg,Stage 2 ROP,Image\Stage 2 ROP\456_2023-09-15_L_8.jpg,456,male,26,1110,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+945,456_2023-09-18_R_83.jpg,Stage 2 ROP,Image\Stage 2 ROP\456_2023-09-18_R_83.jpg,456,male,26,1110,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+946,457_2014-07-02_R_19.jpg,Stage 2 ROP,Image\Stage 2 ROP\457_2014-07-02_R_19.jpg,457,male,29,1250,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+947,458_2020-05-20_L_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\458_2020-05-20_L_11.jpg,458,female,27,900,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+948,458_2020-05-20_R_23.jpg,Stage 2 ROP,Image\Stage 2 ROP\458_2020-05-20_R_23.jpg,458,female,27,900,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+949,459_2016-11-09_R_24.jpg,Stage 2 ROP,Image\Stage 2 ROP\459_2016-11-09_R_24.jpg,459,female,27,960,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+950,460_2023-10-18_L_12.jpg,Stage 2 ROP,Image\Stage 2 ROP\460_2023-10-18_L_12.jpg,460,female,24,700,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+951,460_2023-10-18_R_63.jpg,Stage 2 ROP,Image\Stage 2 ROP\460_2023-10-18_R_63.jpg,460,female,24,700,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+952,461_2011-09-15_L_40.jpg,Stage 2 ROP,Image\Stage 2 ROP\461_2011-09-15_L_40.jpg,461,female,34,1000,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+953,462_2016-11-03_R_19.jpg,Stage 2 ROP,Image\Stage 2 ROP\462_2016-11-03_R_19.jpg,462,male,30,900,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+954,463_2022-04-08_L_18.jpg,Stage 2 ROP,Image\Stage 2 ROP\463_2022-04-08_L_18.jpg,463,male,30,1200,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+955,463_2022-04-08_R_33.jpg,Stage 2 ROP,Image\Stage 2 ROP\463_2022-04-08_R_33.jpg,463,male,30,1200,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+956,464_2023-08-10_L_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\464_2023-08-10_L_11.jpg,464,male,26,930,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+957,465_2023-06-14_L_5.jpg,Stage 2 ROP,Image\Stage 2 ROP\465_2023-06-14_L_5.jpg,465,male,32,1950,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+958,466_2023-04-26_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\466_2023-04-26_L_10.jpg,466,female,26,800,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+959,466_2023-04-26_R_65.jpg,Stage 2 ROP,Image\Stage 2 ROP\466_2023-04-26_R_65.jpg,466,female,26,800,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+960,467_2020-08-05_L_5.jpg,Stage 2 ROP,Image\Stage 2 ROP\467_2020-08-05_L_5.jpg,467,male,28,1000,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+961,468_2009-05-17_R_5.jpg,Stage 2 ROP,Image\Stage 2 ROP\468_2009-05-17_R_5.jpg,468,male,29,1290,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+962,469_2015-07-22_R_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\469_2015-07-22_R_25.jpg,469,female,28,960,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+963,470_2020-04-08_R_41.jpg,Stage 2 ROP,Image\Stage 2 ROP\470_2020-04-08_R_41.jpg,470,female,40,2490,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+964,471_2014-03-05_R_12.jpg,Stage 2 ROP,Image\Stage 2 ROP\471_2014-03-05_R_12.jpg,471,male,27,930,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+965,472_2009-04-19_L_27.jpg,Stage 2 ROP,Image\Stage 2 ROP\472_2009-04-19_L_27.jpg,472,female,27,1020,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+966,472_2009-04-19_R_12.jpg,Stage 2 ROP,Image\Stage 2 ROP\472_2009-04-19_R_12.jpg,472,female,27,1020,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+967,473_2016-11-02_R_7.jpg,Stage 2 ROP,Image\Stage 2 ROP\473_2016-11-02_R_7.jpg,473,male,25,850,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+968,474_2018-10-10_R_21.jpg,Stage 2 ROP,Image\Stage 2 ROP\474_2018-10-10_R_21.jpg,474,female,26,910,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+969,475_2016-01-20_R_18.jpg,Stage 2 ROP,Image\Stage 2 ROP\475_2016-01-20_R_18.jpg,475,male,31,1700,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+970,476_2023-03-22_L_8.jpg,Stage 2 ROP,Image\Stage 2 ROP\476_2023-03-22_L_8.jpg,476,male,27,970,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+971,477_2021-11-16_L_17.jpg,Stage 2 ROP,Image\Stage 2 ROP\477_2021-11-16_L_17.jpg,477,male,28,1100,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+972,477_2021-11-16_R_27.jpg,Stage 2 ROP,Image\Stage 2 ROP\477_2021-11-16_R_27.jpg,477,male,28,1100,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+973,478_2020-06-24_R_22.jpg,Stage 2 ROP,Image\Stage 2 ROP\478_2020-06-24_R_22.jpg,478,male,30,1300,2,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+974,479_2022-12-05_L_3.jpg,Stage 2 ROP,Image\Stage 2 ROP\479_2022-12-05_L_3.jpg,479,male,25,900,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+975,480_2013-10-30_R_3.jpg,Stage 2 ROP,Image\Stage 2 ROP\480_2013-10-30_R_3.jpg,480,female,28,1050,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+976,481_2021-03-02_L_12.jpg,Stage 2 ROP,Image\Stage 2 ROP\481_2021-03-02_L_12.jpg,481,male,28,1200,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+977,481_2021-03-02_R_14.jpg,Stage 2 ROP,Image\Stage 2 ROP\481_2021-03-02_R_14.jpg,481,male,28,1200,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+978,482_2022-06-09_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\482_2022-06-09_L_10.jpg,482,female,27,950,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+979,483_2021-02-10_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\483_2021-02-10_L_10.jpg,483,male,29,1245,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+980,483_2021-02-10_R_33.jpg,Stage 2 ROP,Image\Stage 2 ROP\483_2021-02-10_R_33.jpg,483,male,29,1245,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+981,484_2015-12-16_R_6.jpg,Stage 2 ROP,Image\Stage 2 ROP\484_2015-12-16_R_6.jpg,484,female,30,1440,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+982,485_2009-04-29_R_2.jpg,Stage 2 ROP,Image\Stage 2 ROP\485_2009-04-29_R_2.jpg,485,female,29,1200,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+983,486_2018-05-30_R_60.jpg,Stage 2 ROP,Image\Stage 2 ROP\486_2018-05-30_R_60.jpg,486,female,32,1150,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+984,487_2012-03-07_R_12.jpg,Stage 2 ROP,Image\Stage 2 ROP\487_2012-03-07_R_12.jpg,487,female,32,1750,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+985,487_2012-03-21_L_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\487_2012-03-21_L_16.jpg,487,female,32,1750,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+986,488_2015-01-21_R_48.jpg,Stage 2 ROP,Image\Stage 2 ROP\488_2015-01-21_R_48.jpg,488,female,28,900,3,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+987,489_2012-12-26_R_2.jpg,Stage 2 ROP,Image\Stage 2 ROP\489_2012-12-26_R_2.jpg,489,male,28,1100,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+988,490_2022-07-20_L_6.jpg,Stage 2 ROP,Image\Stage 2 ROP\490_2022-07-20_L_6.jpg,490,male,28,780,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+989,491_2017-08-02_R_37.jpg,Stage 2 ROP,Image\Stage 2 ROP\491_2017-08-02_R_37.jpg,491,female,28,1100,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+990,492_2022-10-27_R_28.jpg,Stage 2 ROP,Image\Stage 2 ROP\492_2022-10-27_R_28.jpg,492,female,31,1550,2,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+991,493_2016-04-20_R_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\493_2016-04-20_R_11.jpg,493,male,28,1210,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+992,494_2009-12-30_L_39.jpg,Stage 2 ROP,Image\Stage 2 ROP\494_2009-12-30_L_39.jpg,494,male,31,1600,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+993,495_2020-05-27_R_35.jpg,Stage 2 ROP,Image\Stage 2 ROP\495_2020-05-27_R_35.jpg,495,male,27,980,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+994,496_2008-02-13_R_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\496_2008-02-13_R_11.jpg,496,female,32,1340,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+995,497_2019-05-08_R_19.jpg,Stage 2 ROP,Image\Stage 2 ROP\497_2019-05-08_R_19.jpg,497,male,32,1420,2,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+996,498_2022-11-02_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\498_2022-11-02_L_10.jpg,498,female,31,1580,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+997,499_2023-01-18_R_52.jpg,Stage 2 ROP,Image\Stage 2 ROP\499_2023-01-18_R_52.jpg,499,male,27,850,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+998,500_2021-11-02_L_2.jpg,Stage 2 ROP,Image\Stage 2 ROP\500_2021-11-02_L_2.jpg,500,male,27,890,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+999,500_2021-11-02_R_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\500_2021-11-02_R_11.jpg,500,male,27,890,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1000,501_2023-04-04_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\501_2023-04-04_L_10.jpg,501,female,26,790,2,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1001,501_2023-04-04_R_13.jpg,Stage 2 ROP,Image\Stage 2 ROP\501_2023-04-04_R_13.jpg,501,female,26,790,2,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1002,502_2022-06-29_L_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\502_2022-06-29_L_25.jpg,502,female,25,670,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1003,502_2022-06-29_R_37.jpg,Stage 2 ROP,Image\Stage 2 ROP\502_2022-06-29_R_37.jpg,502,female,25,670,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1004,503_2021-09-02_L_6.jpg,Stage 2 ROP,Image\Stage 2 ROP\503_2021-09-02_L_6.jpg,503,male,23,480,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1005,504_2022-09-07_R_20.jpg,Stage 2 ROP,Image\Stage 2 ROP\504_2022-09-07_R_20.jpg,504,male,26,730,2,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1006,505_2021-09-30_R_37.jpg,Stage 2 ROP,Image\Stage 2 ROP\505_2021-09-30_R_37.jpg,505,female,26,800,2,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1007,506_2008-09-29_R_29.jpg,Stage 2 ROP,Image\Stage 2 ROP\506_2008-09-29_R_29.jpg,506,male,27,1080,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1008,507_2023-07-26_L_13.jpg,Stage 2 ROP,Image\Stage 2 ROP\507_2023-07-26_L_13.jpg,507,male,25,750,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1009,507_2023-07-26_R_42.jpg,Stage 2 ROP,Image\Stage 2 ROP\507_2023-07-26_R_42.jpg,507,male,25,750,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1010,507_2023-07-26_R_50.jpg,Stage 2 ROP,Image\Stage 2 ROP\507_2023-07-26_R_50.jpg,507,male,25,750,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1011,508_2021-10-29_L_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\508_2021-10-29_L_11.jpg,508,male,40,3280,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1012,508_2021-10-29_R_21.jpg,Stage 2 ROP,Image\Stage 2 ROP\508_2021-10-29_R_21.jpg,508,male,40,3280,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1013,509_2016-03-30_R_1.jpg,Stage 2 ROP,Image\Stage 2 ROP\509_2016-03-30_R_1.jpg,509,male,30,1300,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1014,510_2016-07-20_R_2.jpg,Stage 2 ROP,Image\Stage 2 ROP\510_2016-07-20_R_2.jpg,510,male,28,1200,2,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+1015,511_2022-08-04_R_43.jpg,Stage 2 ROP,Image\Stage 2 ROP\511_2022-08-04_R_43.jpg,511,female,28,960,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1016,512_2022-04-11_L_36.jpg,Stage 2 ROP,Image\Stage 2 ROP\512_2022-04-11_L_36.jpg,512,male,27,980,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1017,512_2022-04-11_R_85.jpg,Stage 2 ROP,Image\Stage 2 ROP\512_2022-04-11_R_85.jpg,512,male,27,980,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1018,513_2015-11-11_R_14.jpg,Stage 2 ROP,Image\Stage 2 ROP\513_2015-11-11_R_14.jpg,513,female,29,1400,2,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1019,514_2011-08-31_L_27.jpg,Stage 2 ROP,Image\Stage 2 ROP\514_2011-08-31_L_27.jpg,514,male,31,1380,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1020,515_2023-08-10_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\515_2023-08-10_L_10.jpg,515,female,29,1000,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1021,515_2023-08-22_R_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\515_2023-08-22_R_25.jpg,515,female,29,1000,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1022,516_2016-08-10_R_32.jpg,Stage 2 ROP,Image\Stage 2 ROP\516_2016-08-10_R_32.jpg,516,female,26,850,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1023,517_2023-08-10_L_12.jpg,Stage 2 ROP,Image\Stage 2 ROP\517_2023-08-10_L_12.jpg,517,female,25,630,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1024,518_2019-11-15_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\518_2019-11-15_L_10.jpg,518,female,29,1200,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1025,518_2019-11-15_R_44.jpg,Stage 2 ROP,Image\Stage 2 ROP\518_2019-11-15_R_44.jpg,518,female,29,1200,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1026,519_2022-09-15_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\519_2022-09-15_L_10.jpg,519,female,30,1370,2,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1027,519_2022-09-15_R_26.jpg,Stage 2 ROP,Image\Stage 2 ROP\519_2022-09-15_R_26.jpg,519,female,30,1370,2,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1028,520_2011-02-23_L_14.jpg,Stage 2 ROP,Image\Stage 2 ROP\520_2011-02-23_L_14.jpg,520,male,31,1600,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+1029,521_2015-07-01_R_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\521_2015-07-01_R_10.jpg,521,male,27,950,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1030,522_2012-04-25_L_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\522_2012-04-25_L_16.jpg,522,male,28,1100,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1031,522_2012-04-25_R_13.jpg,Stage 2 ROP,Image\Stage 2 ROP\522_2012-04-25_R_13.jpg,522,male,28,1100,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1032,523_2009-06-03_R_20.jpg,Stage 2 ROP,Image\Stage 2 ROP\523_2009-06-03_R_20.jpg,523,male,30,1300,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1033,524_2023-07-19_R_36.jpg,Stage 2 ROP,Image\Stage 2 ROP\524_2023-07-19_R_36.jpg,524,male,28,1460,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1034,525_2021-03-24_L_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\525_2021-03-24_L_25.jpg,525,female,23,560,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1035,525_2021-04-28_R_41.jpg,Stage 2 ROP,Image\Stage 2 ROP\525_2021-04-28_R_41.jpg,525,female,23,560,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1036,526_2022-02-17_L_12.jpg,Stage 2 ROP,Image\Stage 2 ROP\526_2022-02-17_L_12.jpg,526,male,27,950,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1037,527_2009-05-27_R_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\527_2009-05-27_R_10.jpg,527,male,28,1400,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1038,528_2014-02-13_L_33.jpg,Stage 2 ROP,Image\Stage 2 ROP\528_2014-02-13_L_33.jpg,528,male,28,1100,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1039,529_2021-05-06_L_2.jpg,Stage 2 ROP,Image\Stage 2 ROP\529_2021-05-06_L_2.jpg,529,male,27,930,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1040,530_2020-07-22_L_21.jpg,Stage 2 ROP,Image\Stage 2 ROP\530_2020-07-22_L_21.jpg,530,male,27,820,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1041,530_2020-07-22_R_36.jpg,Stage 2 ROP,Image\Stage 2 ROP\530_2020-07-22_R_36.jpg,530,male,27,820,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1042,531_2022-04-20_L_20.jpg,Stage 2 ROP,Image\Stage 2 ROP\531_2022-04-20_L_20.jpg,531,male,26,995,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1043,531_2022-04-20_R_29.jpg,Stage 2 ROP,Image\Stage 2 ROP\531_2022-04-20_R_29.jpg,531,male,26,995,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1044,532_2019-05-15_R_13.jpg,Stage 2 ROP,Image\Stage 2 ROP\532_2019-05-15_R_13.jpg,532,female,30,690,2,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1045,533_2020-10-21_R_27.jpg,Stage 2 ROP,Image\Stage 2 ROP\533_2020-10-21_R_27.jpg,533,male,28,1320,2,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1046,534_2019-12-05_R_21.jpg,Stage 2 ROP,Image\Stage 2 ROP\534_2019-12-05_R_21.jpg,534,male,28,1000,2,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+1047,535_2021-08-03_L_6.jpg,Stage 2 ROP,Image\Stage 2 ROP\535_2021-08-03_L_6.jpg,535,female,29,1000,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1048,535_2021-08-03_R_28.jpg,Stage 2 ROP,Image\Stage 2 ROP\535_2021-08-03_R_28.jpg,535,female,29,1000,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1049,536_2022-09-13_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\536_2022-09-13_L_10.jpg,536,male,28,1150,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1050,536_2022-09-13_R_44.jpg,Stage 2 ROP,Image\Stage 2 ROP\536_2022-09-13_R_44.jpg,536,male,28,1150,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1051,537_2015-01-21_R_27.jpg,Stage 2 ROP,Image\Stage 2 ROP\537_2015-01-21_R_27.jpg,537,male,26,1000,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1052,538_2023-06-21_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\538_2023-06-21_L_10.jpg,538,female,29,1190,2,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1053,539_2016-08-10_R_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\539_2016-08-10_R_10.jpg,539,female,26,960,2,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1054,540_2021-10-13_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\540_2021-10-13_L_10.jpg,540,male,28,1100,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1055,540_2021-10-13_R_33.jpg,Stage 2 ROP,Image\Stage 2 ROP\540_2021-10-13_R_33.jpg,540,male,28,1100,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1056,541_2022-12-21_L_18.jpg,Stage 2 ROP,Image\Stage 2 ROP\541_2022-12-21_L_18.jpg,541,female,26,680,2,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1057,541_2022-12-21_R_40.jpg,Stage 2 ROP,Image\Stage 2 ROP\541_2022-12-21_R_40.jpg,541,female,26,680,2,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1058,542_2020-07-10_L_3.jpg,Stage 2 ROP,Image\Stage 2 ROP\542_2020-07-10_L_3.jpg,542,male,29,980,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1059,543_2009-07-22_L_22.jpg,Stage 2 ROP,Image\Stage 2 ROP\543_2009-07-22_L_22.jpg,543,male,30,1700,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1060,543_2009-07-22_R_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\543_2009-07-22_R_10.jpg,543,male,30,1700,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1061,544_2022-02-28_L_3.jpg,Stage 2 ROP,Image\Stage 2 ROP\544_2022-02-28_L_3.jpg,544,female,25,650,2,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1062,545_2010-09-26_L_20.jpg,Stage 2 ROP,Image\Stage 2 ROP\545_2010-09-26_L_20.jpg,545,male,29,975,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1063,546_2022-07-08_L_22.jpg,Stage 2 ROP,Image\Stage 2 ROP\546_2022-07-08_L_22.jpg,546,male,25,750,2,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1064,546_2022-07-26_R_42.jpg,Stage 2 ROP,Image\Stage 2 ROP\546_2022-07-26_R_42.jpg,546,male,25,750,2,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1065,547_2016-03-24_R_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\547_2016-03-24_R_11.jpg,547,male,25,680,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1066,548_2021-03-23_L_4.jpg,Stage 2 ROP,Image\Stage 2 ROP\548_2021-03-23_L_4.jpg,548,male,25,715,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1067,549_2023-06-07_L_7.jpg,Stage 2 ROP,Image\Stage 2 ROP\549_2023-06-07_L_7.jpg,549,female,31,1130,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+1068,549_2023-06-21_R_29.jpg,Stage 2 ROP,Image\Stage 2 ROP\549_2023-06-21_R_29.jpg,549,female,31,1130,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+1069,550_2011-02-16_L_26.jpg,Stage 2 ROP,Image\Stage 2 ROP\550_2011-02-16_L_26.jpg,550,male,28,998,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1070,551_2021-09-05_L_23.jpg,Stage 2 ROP,Image\Stage 2 ROP\551_2021-09-05_L_23.jpg,551,female,27,650,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1071,552_2007-04-25_L_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\552_2007-04-25_L_25.jpg,552,female,31,1000,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1072,553_2022-01-20_L_30.jpg,Stage 2 ROP,Image\Stage 2 ROP\553_2022-01-20_L_30.jpg,553,male,29,1300,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1073,553_2022-01-20_R_39.jpg,Stage 2 ROP,Image\Stage 2 ROP\553_2022-01-20_R_39.jpg,553,male,29,1300,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1074,554_2023-09-12_L_24.jpg,Stage 2 ROP,Image\Stage 2 ROP\554_2023-09-12_L_24.jpg,554,male,26,900,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1075,554_2023-09-12_R_46.jpg,Stage 2 ROP,Image\Stage 2 ROP\554_2023-09-12_R_46.jpg,554,male,26,900,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1076,555_2021-04-13_R_31.jpg,Stage 2 ROP,Image\Stage 2 ROP\555_2021-04-13_R_31.jpg,555,female,28,1200,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1077,556_2014-04-23_L_18.jpg,Stage 2 ROP,Image\Stage 2 ROP\556_2014-04-23_L_18.jpg,556,male,33,2100,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1078,556_2014-04-23_R_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\556_2014-04-23_R_10.jpg,556,male,33,2100,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1079,557_2021-10-26_L_20.jpg,Stage 2 ROP,Image\Stage 2 ROP\557_2021-10-26_L_20.jpg,557,female,28,880,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1080,557_2021-10-26_R_62.jpg,Stage 2 ROP,Image\Stage 2 ROP\557_2021-10-26_R_62.jpg,557,female,28,880,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1081,558_2020-07-29_L_6.jpg,Stage 2 ROP,Image\Stage 2 ROP\558_2020-07-29_L_6.jpg,558,male,30,1080,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1082,558_2020-08-11_R_21.jpg,Stage 2 ROP,Image\Stage 2 ROP\558_2020-08-11_R_21.jpg,558,male,30,1080,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1083,559_2021-10-13_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\559_2021-10-13_L_10.jpg,559,male,27,1060,2,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1084,559_2021-10-13_R_39.jpg,Stage 2 ROP,Image\Stage 2 ROP\559_2021-10-13_R_39.jpg,559,male,27,1060,2,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1085,560_2016-09-04_R_20.jpg,Stage 2 ROP,Image\Stage 2 ROP\560_2016-09-04_R_20.jpg,560,female,28,1000,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1086,561_2021-04-13_R_22.jpg,Stage 2 ROP,Image\Stage 2 ROP\561_2021-04-13_R_22.jpg,561,male,26,710,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1087,562_2016-03-16_R_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\562_2016-03-16_R_10.jpg,562,female,29,1020,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1088,563_2010-01-14_L_45.jpg,Stage 2 ROP,Image\Stage 2 ROP\563_2010-01-14_L_45.jpg,563,female,29,1370,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1089,564_2022-03-29_R_37.jpg,Stage 2 ROP,Image\Stage 2 ROP\564_2022-03-29_R_37.jpg,564,male,29,1120,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1090,565_2012-01-18_L_31.jpg,Stage 2 ROP,Image\Stage 2 ROP\565_2012-01-18_L_31.jpg,565,male,29,1100,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1091,566_2019-01-15_R_44.jpg,Stage 2 ROP,Image\Stage 2 ROP\566_2019-01-15_R_44.jpg,566,male,26,700,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+1092,567_2020-09-23_L_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\567_2020-09-23_L_16.jpg,567,male,27,970,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1093,567_2020-09-23_R_83.jpg,Stage 2 ROP,Image\Stage 2 ROP\567_2020-09-23_R_83.jpg,567,male,27,970,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1094,568_2015-03-04_R_28.jpg,Stage 2 ROP,Image\Stage 2 ROP\568_2015-03-04_R_28.jpg,568,male,30,1320,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1095,569_2008-02-16_R_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\569_2008-02-16_R_10.jpg,569,male,32,1250,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1096,570_2019-09-11_L_5.jpg,Stage 2 ROP,Image\Stage 2 ROP\570_2019-09-11_L_5.jpg,570,male,30,1600,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1097,570_2019-09-11_R_27.jpg,Stage 2 ROP,Image\Stage 2 ROP\570_2019-09-11_R_27.jpg,570,male,30,1600,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1098,571_2017-01-25_R_41.jpg,Stage 2 ROP,Image\Stage 2 ROP\571_2017-01-25_R_41.jpg,571,female,29,1000,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1099,572_2023-05-17_L_15.jpg,Stage 2 ROP,Image\Stage 2 ROP\572_2023-05-17_L_15.jpg,572,male,30,1700,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1100,572_2023-05-17_R_39.jpg,Stage 2 ROP,Image\Stage 2 ROP\572_2023-05-17_R_39.jpg,572,male,30,1700,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1101,573_2013-12-11_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\573_2013-12-11_L_10.jpg,573,male,30,1250,2,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+1102,574_2023-01-18_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\574_2023-01-18_L_10.jpg,574,male,27,890,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1103,574_2023-01-18_R_45.jpg,Stage 2 ROP,Image\Stage 2 ROP\574_2023-01-18_R_45.jpg,574,male,27,890,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1104,575_2023-02-08_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\575_2023-02-08_L_10.jpg,575,female,28,800,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1105,575_2023-02-08_R_37.jpg,Stage 2 ROP,Image\Stage 2 ROP\575_2023-02-08_R_37.jpg,575,female,28,800,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1106,576_2008-07-30_L_17.jpg,Stage 2 ROP,Image\Stage 2 ROP\576_2008-07-30_L_17.jpg,576,male,31,1200,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1107,577_2007-10-24_L_26.jpg,Stage 2 ROP,Image\Stage 2 ROP\577_2007-10-24_L_26.jpg,577,male,32,1600,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1108,578_2016-05-04_R_35.jpg,Stage 2 ROP,Image\Stage 2 ROP\578_2016-05-04_R_35.jpg,578,female,30,1200,2,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1109,579_2021-01-24_L_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\579_2021-01-24_L_25.jpg,579,male,28,1200,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1110,580_2012-08-01_L_17.jpg,Stage 2 ROP,Image\Stage 2 ROP\580_2012-08-01_L_17.jpg,580,female,30,1240,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1111,581_2022-08-04_R_100.jpg,Stage 2 ROP,Image\Stage 2 ROP\581_2022-08-04_R_100.jpg,581,male,26,1010,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1112,582_2008-05-21_L_31.jpg,Stage 2 ROP,Image\Stage 2 ROP\582_2008-05-21_L_31.jpg,582,female,31,1600,2,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1113,582_2008-05-21_R_19.jpg,Stage 2 ROP,Image\Stage 2 ROP\582_2008-05-21_R_19.jpg,582,female,31,1600,2,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1114,583_2008-11-05_R_6.jpg,Stage 2 ROP,Image\Stage 2 ROP\583_2008-11-05_R_6.jpg,583,female,31,1550,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1115,584_2019-07-22_R_51.jpg,Stage 2 ROP,Image\Stage 2 ROP\584_2019-07-22_R_51.jpg,584,male,29,1220,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1116,585_2020-04-17_R_24.jpg,Stage 2 ROP,Image\Stage 2 ROP\585_2020-04-17_R_24.jpg,585,male,27,1100,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1117,586_2016-02-03_R_24.jpg,Stage 2 ROP,Image\Stage 2 ROP\586_2016-02-03_R_24.jpg,586,female,27,940,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1118,587_2008-06-11_R_5.jpg,Stage 2 ROP,Image\Stage 2 ROP\587_2008-06-11_R_5.jpg,587,male,34,1760,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1119,587_2008-06-25_L_39.jpg,Stage 2 ROP,Image\Stage 2 ROP\587_2008-06-25_L_39.jpg,587,male,34,1760,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1120,588_2019-10-23_R_28.jpg,Stage 2 ROP,Image\Stage 2 ROP\588_2019-10-23_R_28.jpg,588,female,27,800,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1121,589_2009-12-23_R_24.jpg,Stage 2 ROP,Image\Stage 2 ROP\589_2009-12-23_R_24.jpg,589,female,29,950,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+1122,590_2020-10-14_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\590_2020-10-14_L_10.jpg,590,female,26,900,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1123,591_2022-10-19_L_6.jpg,Stage 2 ROP,Image\Stage 2 ROP\591_2022-10-19_L_6.jpg,591,female,28,1030,3,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1124,592_2021-01-20_R_30.jpg,Stage 2 ROP,Image\Stage 2 ROP\592_2021-01-20_R_30.jpg,592,male,31,1700,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1125,593_2016-01-27_R_3.jpg,Stage 2 ROP,Image\Stage 2 ROP\593_2016-01-27_R_3.jpg,593,male,28,1040,2,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1126,594_2019-11-06_L_1.jpg,Stage 2 ROP,Image\Stage 2 ROP\594_2019-11-06_L_1.jpg,594,male,29,1600,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1127,594_2019-11-06_R_22.jpg,Stage 2 ROP,Image\Stage 2 ROP\594_2019-11-06_R_22.jpg,594,male,29,1600,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1128,595_2022-12-07_L_17.jpg,Stage 2 ROP,Image\Stage 2 ROP\595_2022-12-07_L_17.jpg,595,female,34,1870,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1129,596_2021-09-08_L_15.jpg,Stage 2 ROP,Image\Stage 2 ROP\596_2021-09-08_L_15.jpg,596,male,25,750,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1130,596_2021-09-08_R_18.jpg,Stage 2 ROP,Image\Stage 2 ROP\596_2021-09-08_R_18.jpg,596,male,25,750,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1131,597_2023-10-17_R_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\597_2023-10-17_R_11.jpg,597,male,31,1220,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1132,598_2021-07-26_L_21.jpg,Stage 2 ROP,Image\Stage 2 ROP\598_2021-07-26_L_21.jpg,598,female,25,700,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1133,598_2021-07-26_R_40.jpg,Stage 2 ROP,Image\Stage 2 ROP\598_2021-07-26_R_40.jpg,598,female,25,700,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1134,599_2014-09-22_R_41.jpg,Stage 2 ROP,Image\Stage 2 ROP\599_2014-09-22_R_41.jpg,599,male,35,2300,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1135,600_2013-03-20_R_13.jpg,Stage 2 ROP,Image\Stage 2 ROP\600_2013-03-20_R_13.jpg,600,male,28,1090,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1136,601_2022-12-14_L_2.jpg,Stage 2 ROP,Image\Stage 2 ROP\601_2022-12-14_L_2.jpg,601,male,27,980,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1137,602_2015-03-12_R_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\602_2015-03-12_R_10.jpg,602,male,28,1200,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1138,603_2020-07-12_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\603_2020-07-12_L_10.jpg,603,female,27,900,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1139,604_2008-04-16_R_33.jpg,Stage 2 ROP,Image\Stage 2 ROP\604_2008-04-16_R_33.jpg,604,male,32,2000,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1140,605_2014-09-10_R_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\605_2014-09-10_R_16.jpg,605,female,37,1900,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1141,606_2006-07-12_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\606_2006-07-12_L_10.jpg,606,male,33,1880,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1142,607_2020-12-16_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\607_2020-12-16_L_10.jpg,607,female,26,770,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1143,607_2020-12-16_R_26.jpg,Stage 2 ROP,Image\Stage 2 ROP\607_2020-12-16_R_26.jpg,607,female,26,770,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1144,608_2016-04-25_R_40.jpg,Stage 2 ROP,Image\Stage 2 ROP\608_2016-04-25_R_40.jpg,608,male,28,1830,1,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+1145,609_2020-06-30_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\609_2020-06-30_L_10.jpg,609,male,41,3100,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1146,609_2020-06-30_R_30.jpg,Stage 2 ROP,Image\Stage 2 ROP\609_2020-06-30_R_30.jpg,609,male,41,3100,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1147,610_2022-09-25_L_2.jpg,Stage 2 ROP,Image\Stage 2 ROP\610_2022-09-25_L_2.jpg,610,male,29,1100,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1148,610_2022-09-25_R_12.jpg,Stage 2 ROP,Image\Stage 2 ROP\610_2022-09-25_R_12.jpg,610,male,29,1100,2,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1149,611_2019-11-20_R_13.jpg,Stage 2 ROP,Image\Stage 2 ROP\611_2019-11-20_R_13.jpg,611,female,27,750,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1150,612_2019-08-21_R_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\612_2019-08-21_R_16.jpg,612,male,25,890,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1151,612_2019-08-28_L_8.jpg,Stage 2 ROP,Image\Stage 2 ROP\612_2019-08-28_L_8.jpg,612,male,25,890,2,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1152,613_2016-06-29_R_19.jpg,Stage 2 ROP,Image\Stage 2 ROP\613_2016-06-29_R_19.jpg,613,female,27,1150,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1153,614_2021-01-28_R_21.jpg,Stage 2 ROP,Image\Stage 2 ROP\614_2021-01-28_R_21.jpg,614,female,37,2380,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1154,615_2015-12-23_R_15.jpg,Stage 2 ROP,Image\Stage 2 ROP\615_2015-12-23_R_15.jpg,615,female,30,1540,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1155,616_2015-08-26_R_2.jpg,Stage 2 ROP,Image\Stage 2 ROP\616_2015-08-26_R_2.jpg,616,male,33,1480,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1156,617_2023-01-18_R_19.jpg,Stage 2 ROP,Image\Stage 2 ROP\617_2023-01-18_R_19.jpg,617,male,26,850,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1157,618_2021-07-28_L_20.jpg,Stage 2 ROP,Image\Stage 2 ROP\618_2021-07-28_L_20.jpg,618,female,28,1100,2,cesarean section,Stage 2 ROP,Mild ROP,1,2,0
+1158,619_2020-10-06_L_1.jpg,Stage 2 ROP,Image\Stage 2 ROP\619_2020-10-06_L_1.jpg,619,female,28,990,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1159,619_2020-10-06_R_39.jpg,Stage 2 ROP,Image\Stage 2 ROP\619_2020-10-06_R_39.jpg,619,female,28,990,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1160,620_2019-11-27_R_22.jpg,Stage 2 ROP,Image\Stage 2 ROP\620_2019-11-27_R_22.jpg,620,male,30,1350,2,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1161,621_2008-12-24_L_39.jpg,Stage 2 ROP,Image\Stage 2 ROP\621_2008-12-24_L_39.jpg,621,female,30,1120,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1162,622_2023-07-11_L_3.jpg,Stage 2 ROP,Image\Stage 2 ROP\622_2023-07-11_L_3.jpg,622,male,27,720,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1163,623_2010-03-24_L_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\623_2010-03-24_L_25.jpg,623,male,27,1150,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1164,623_2010-03-24_R_17.jpg,Stage 2 ROP,Image\Stage 2 ROP\623_2010-03-24_R_17.jpg,623,male,27,1150,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1165,624_2023-01-26_R_43.jpg,Stage 2 ROP,Image\Stage 2 ROP\624_2023-01-26_R_43.jpg,624,male,27,900,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1166,625_2018-02-28_R_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\625_2018-02-28_R_10.jpg,625,male,26,740,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1167,626_2011-11-02_R_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\626_2011-11-02_R_10.jpg,626,male,28,1200,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1168,626_2011-11-16_L_24.jpg,Stage 2 ROP,Image\Stage 2 ROP\626_2011-11-16_L_24.jpg,626,male,28,1200,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1169,627_2021-11-14_L_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\627_2021-11-14_L_10.jpg,627,male,27,850,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1170,628_2022-09-19_R_67.jpg,Stage 2 ROP,Image\Stage 2 ROP\628_2022-09-19_R_67.jpg,628,male,29,990,2,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1171,629_2022-07-06_R_20.jpg,Stage 2 ROP,Image\Stage 2 ROP\629_2022-07-06_R_20.jpg,629,male,30,1800,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1172,62_2021-08-18_L_21.jpg,Stage 2 ROP,Image\Stage 2 ROP\62_2021-08-18_L_21.jpg,62,male,27,830,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1173,62_2021-08-18_R_51.jpg,Stage 2 ROP,Image\Stage 2 ROP\62_2021-08-18_R_51.jpg,62,male,27,830,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1174,630_2013-06-09_R_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\630_2013-06-09_R_11.jpg,630,male,27,790,2,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1175,631_2020-01-15_R_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\631_2020-01-15_R_25.jpg,631,female,28,1100,2,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1176,631_2020-01-22_L_3.jpg,Stage 2 ROP,Image\Stage 2 ROP\631_2020-01-22_L_3.jpg,631,female,28,1100,2,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1177,632_2020-08-19_L_12.jpg,Stage 2 ROP,Image\Stage 2 ROP\632_2020-08-19_L_12.jpg,632,male,27,1100,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1178,632_2020-08-19_R_33.jpg,Stage 2 ROP,Image\Stage 2 ROP\632_2020-08-19_R_33.jpg,632,male,27,1100,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1179,633_2013-07-24_R_2.jpg,Stage 2 ROP,Image\Stage 2 ROP\633_2013-07-24_R_2.jpg,633,male,27,700,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1180,634_2018-04-04_R_5.jpg,Stage 2 ROP,Image\Stage 2 ROP\634_2018-04-04_R_5.jpg,634,male,29,1200,2,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1181,635_2019-05-22_R_11.jpg,Stage 2 ROP,Image\Stage 2 ROP\635_2019-05-22_R_11.jpg,635,male,30,1350,1,vaginally,Stage 2 ROP,Mild ROP,1,1,0
+1182,636_2023-06-30_R_106.jpg,Stage 2 ROP,Image\Stage 2 ROP\636_2023-06-30_R_106.jpg,636,male,26,800,2,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1183,637_2010-08-02_L_24.jpg,Stage 2 ROP,Image\Stage 2 ROP\637_2010-08-02_L_24.jpg,637,male,26,1000,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1184,638_2009-05-20_L_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\638_2009-05-20_L_16.jpg,638,female,31,1320,1,cesarean section,Stage 2 ROP,Mild ROP,1,0,0
+1185,639_2023-07-06_R_15.jpg,Stage 2 ROP,Image\Stage 2 ROP\639_2023-07-06_R_15.jpg,639,male,34,2100,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1186,641_2016-12-14_R_23.jpg,Stage 2 ROP,Image\Stage 2 ROP\641_2016-12-14_R_23.jpg,641,female,29,1300,1,vaginally,Stage 2 ROP,Mild ROP,1,2,0
+1187,647_2016-05-21_R_10.jpg,Stage 2 ROP,Image\Stage 2 ROP\647_2016-05-21_R_10.jpg,647,female,28,1000,1,cesarean section,Stage 2 ROP,Mild ROP,1,3,0
+1188,655_2016-06-08_R_19.jpg,Stage 2 ROP,Image\Stage 2 ROP\655_2016-06-08_R_19.jpg,655,female,27,980,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1189,662_2019-11-27_R_25.jpg,Stage 2 ROP,Image\Stage 2 ROP\662_2019-11-27_R_25.jpg,662,male,27,840,1,vaginally,Stage 2 ROP,Mild ROP,1,0,0
+1190,685_2015-10-14_R_14.jpg,Stage 2 ROP,Image\Stage 2 ROP\685_2015-10-14_R_14.jpg,685,male,31,1500,2,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1191,693_2019-10-09_L_16.jpg,Stage 2 ROP,Image\Stage 2 ROP\693_2019-10-09_L_16.jpg,693,female,30,1300,1,cesarean section,Stage 2 ROP,Mild ROP,1,4,0
+1192,711_2023-10-18_R_39.jpg,Stage 2 ROP,Image\Stage 2 ROP\711_2023-10-18_R_39.jpg,711,male,28,1050,1,cesarean section,Stage 2 ROP,Mild ROP,1,1,0
+1193,723_2023-06-20_R_12.jpg,Stage 2 ROP,Image\Stage 2 ROP\723_2023-06-20_R_12.jpg,723,female,23,490,1,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1194,757_2020-07-08_R_17.jpg,Stage 2 ROP,Image\Stage 2 ROP\757_2020-07-08_R_17.jpg,757,male,27,1100,1,vaginally,Stage 2 ROP,Mild ROP,1,4,0
+1195,84_2021-11-10_L_14.jpg,Stage 2 ROP,Image\Stage 2 ROP\84_2021-11-10_L_14.jpg,84,female,23,450,2,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1196,84_2021-11-10_R_35.jpg,Stage 2 ROP,Image\Stage 2 ROP\84_2021-11-10_R_35.jpg,84,female,23,450,2,vaginally,Stage 2 ROP,Mild ROP,1,3,0
+1197,12_2011-12-28_L_20.jpg,Stage 3 ROP,Image\Stage 3 ROP\12_2011-12-28_L_20.jpg,12,male,30,1500,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1198,240_2014-04-28_R_13.jpg,Stage 3 ROP,Image\Stage 3 ROP\240_2014-04-28_R_13.jpg,240,male,28,920,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1199,275_2008-10-22_R_16.jpg,Stage 3 ROP,Image\Stage 3 ROP\275_2008-10-22_R_16.jpg,275,female,31,1400,2,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1200,278_2015-03-04_R_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\278_2015-03-04_R_11.jpg,278,female,29,1300,1,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1201,280_2014-09-23_R_18.jpg,Stage 3 ROP,Image\Stage 3 ROP\280_2014-09-23_R_18.jpg,280,male,26,748,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1202,282_2021-07-08_L_13.jpg,Stage 3 ROP,Image\Stage 3 ROP\282_2021-07-08_L_13.jpg,282,female,24,600,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1203,282_2021-07-08_R_15.jpg,Stage 3 ROP,Image\Stage 3 ROP\282_2021-07-08_R_15.jpg,282,female,24,600,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1204,289_2023-01-06_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\289_2023-01-06_L_10.jpg,289,male,26,900,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1205,293_2019-07-10_R_47.jpg,Stage 3 ROP,Image\Stage 3 ROP\293_2019-07-10_R_47.jpg,293,male,26,850,1,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1206,301_2023-07-26_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\301_2023-07-26_L_10.jpg,301,male,32,2750,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1207,310_2022-08-22_R_47.jpg,Stage 3 ROP,Image\Stage 3 ROP\310_2022-08-22_R_47.jpg,310,female,26,800,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1208,310_2022-10-12_L_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\310_2022-10-12_L_11.jpg,310,female,26,800,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1209,321_2009-02-11_R_4.jpg,Stage 3 ROP,Image\Stage 3 ROP\321_2009-02-11_R_4.jpg,321,male,33,1500,3,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1210,32_2019-01-23_R_44.jpg,Stage 3 ROP,Image\Stage 3 ROP\32_2019-01-23_R_44.jpg,32,female,28,1060,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1211,348_2010-05-28_L_26.jpg,Stage 3 ROP,Image\Stage 3 ROP\348_2010-05-28_L_26.jpg,348,male,32,1490,2,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1212,348_2010-05-28_R_14.jpg,Stage 3 ROP,Image\Stage 3 ROP\348_2010-05-28_R_14.jpg,348,male,32,1490,2,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1213,353_2020-07-15_L_9.jpg,Stage 3 ROP,Image\Stage 3 ROP\353_2020-07-15_L_9.jpg,353,male,39,3750,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1214,358_2014-03-25_L_29.jpg,Stage 3 ROP,Image\Stage 3 ROP\358_2014-03-25_L_29.jpg,358,male,26,1050,2,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1215,358_2014-03-25_R_13.jpg,Stage 3 ROP,Image\Stage 3 ROP\358_2014-03-25_R_13.jpg,358,male,26,1050,2,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1216,377_2008-11-12_L_14.jpg,Stage 3 ROP,Image\Stage 3 ROP\377_2008-11-12_L_14.jpg,377,male,29,1170,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1217,379_2008-12-31_L_16.jpg,Stage 3 ROP,Image\Stage 3 ROP\379_2008-12-31_L_16.jpg,379,male,31,1600,2,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1218,379_2008-12-31_R_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\379_2008-12-31_R_11.jpg,379,male,31,1600,2,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1219,381_2019-02-12_R_52.jpg,Stage 3 ROP,Image\Stage 3 ROP\381_2019-02-12_R_52.jpg,381,male,29,1360,2,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1220,390_2020-05-06_L_19.jpg,Stage 3 ROP,Image\Stage 3 ROP\390_2020-05-06_L_19.jpg,390,female,26,880,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1221,404_2022-08-31_R_25.jpg,Stage 3 ROP,Image\Stage 3 ROP\404_2022-08-31_R_25.jpg,404,female,29,1100,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1222,405_2022-11-24_L_17.jpg,Stage 3 ROP,Image\Stage 3 ROP\405_2022-11-24_L_17.jpg,405,male,25,660,2,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1223,405_2022-11-24_R_21.jpg,Stage 3 ROP,Image\Stage 3 ROP\405_2022-11-24_R_21.jpg,405,male,25,660,2,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1224,410_2020-07-03_L_7.jpg,Stage 3 ROP,Image\Stage 3 ROP\410_2020-07-03_L_7.jpg,410,male,26,600,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1225,413_2023-01-18_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\413_2023-01-18_L_10.jpg,413,female,29,910,2,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1226,414_2022-05-31_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\414_2022-05-31_L_10.jpg,414,male,31,1490,2,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1227,414_2022-05-31_R_31.jpg,Stage 3 ROP,Image\Stage 3 ROP\414_2022-05-31_R_31.jpg,414,male,31,1490,2,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1228,417_2022-03-31_R_45.jpg,Stage 3 ROP,Image\Stage 3 ROP\417_2022-03-31_R_45.jpg,417,male,25,780,2,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1229,418_2023-05-23_L_12.jpg,Stage 3 ROP,Image\Stage 3 ROP\418_2023-05-23_L_12.jpg,418,male,26,690,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1230,418_2023-06-09_R_27.jpg,Stage 3 ROP,Image\Stage 3 ROP\418_2023-06-09_R_27.jpg,418,male,26,690,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1231,427_2020-11-18_R_35.jpg,Stage 3 ROP,Image\Stage 3 ROP\427_2020-11-18_R_35.jpg,427,female,28,900,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1232,438_2023-02-22_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\438_2023-02-22_L_10.jpg,438,female,25,710,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1233,438_2023-02-22_R_48.jpg,Stage 3 ROP,Image\Stage 3 ROP\438_2023-02-22_R_48.jpg,438,female,25,710,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1234,446_2007-12-05_R_6.jpg,Stage 3 ROP,Image\Stage 3 ROP\446_2007-12-05_R_6.jpg,446,male,26,1000,2,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1235,455_2023-09-27_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\455_2023-09-27_L_10.jpg,455,male,26,850,2,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1236,458_2020-05-20_L_2.jpg,Stage 3 ROP,Image\Stage 3 ROP\458_2020-05-20_L_2.jpg,458,female,27,900,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1237,458_2020-05-20_R_26.jpg,Stage 3 ROP,Image\Stage 3 ROP\458_2020-05-20_R_26.jpg,458,female,27,900,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1238,460_2023-10-18_R_62.jpg,Stage 3 ROP,Image\Stage 3 ROP\460_2023-10-18_R_62.jpg,460,female,24,700,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1239,465_2023-06-14_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\465_2023-06-14_L_10.jpg,465,male,32,1950,2,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1240,465_2023-06-14_R_38.jpg,Stage 3 ROP,Image\Stage 3 ROP\465_2023-06-14_R_38.jpg,465,male,32,1950,2,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1241,466_2023-04-26_L_27.jpg,Stage 3 ROP,Image\Stage 3 ROP\466_2023-04-26_L_27.jpg,466,female,26,800,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1242,466_2023-04-26_R_50.jpg,Stage 3 ROP,Image\Stage 3 ROP\466_2023-04-26_R_50.jpg,466,female,26,800,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1243,469_2015-08-05_R_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\469_2015-08-05_R_10.jpg,469,female,28,960,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1244,472_2009-04-19_L_28.jpg,Stage 3 ROP,Image\Stage 3 ROP\472_2009-04-19_L_28.jpg,472,female,27,1020,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1245,472_2009-04-19_R_14.jpg,Stage 3 ROP,Image\Stage 3 ROP\472_2009-04-19_R_14.jpg,472,female,27,1020,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1246,475_2016-01-20_R_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\475_2016-01-20_R_10.jpg,475,male,31,1700,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1247,482_2022-05-26_L_33.jpg,Stage 3 ROP,Image\Stage 3 ROP\482_2022-05-26_L_33.jpg,482,female,27,950,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1248,487_2012-03-07_R_16.jpg,Stage 3 ROP,Image\Stage 3 ROP\487_2012-03-07_R_16.jpg,487,female,32,1750,1,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1249,487_2012-03-28_L_21.jpg,Stage 3 ROP,Image\Stage 3 ROP\487_2012-03-28_L_21.jpg,487,female,32,1750,1,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1250,505_2021-09-30_L_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\505_2021-09-30_L_11.jpg,505,female,26,800,2,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1251,505_2021-09-30_R_40.jpg,Stage 3 ROP,Image\Stage 3 ROP\505_2021-09-30_R_40.jpg,505,female,26,800,2,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1252,507_2023-07-26_L_32.jpg,Stage 3 ROP,Image\Stage 3 ROP\507_2023-07-26_L_32.jpg,507,male,25,750,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1253,520_2011-02-23_L_13.jpg,Stage 3 ROP,Image\Stage 3 ROP\520_2011-02-23_L_13.jpg,520,male,31,1600,1,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1254,522_2012-04-25_L_23.jpg,Stage 3 ROP,Image\Stage 3 ROP\522_2012-04-25_L_23.jpg,522,male,28,1100,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1255,525_2021-01-26_L_1.jpg,Stage 3 ROP,Image\Stage 3 ROP\525_2021-01-26_L_1.jpg,525,female,23,560,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1256,525_2021-01-26_R_15.jpg,Stage 3 ROP,Image\Stage 3 ROP\525_2021-01-26_R_15.jpg,525,female,23,560,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1257,536_2022-09-13_R_57.jpg,Stage 3 ROP,Image\Stage 3 ROP\536_2022-09-13_R_57.jpg,536,male,28,1150,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1258,537_2015-01-21_R_34.jpg,Stage 3 ROP,Image\Stage 3 ROP\537_2015-01-21_R_34.jpg,537,male,26,1000,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1259,539_2016-08-10_R_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\539_2016-08-10_R_11.jpg,539,female,26,960,2,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1260,546_2022-07-26_R_33.jpg,Stage 3 ROP,Image\Stage 3 ROP\546_2022-07-26_R_33.jpg,546,male,25,750,2,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1261,546_2022-08-09_L_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\546_2022-08-09_L_11.jpg,546,male,25,750,2,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1262,561_2021-04-20_R_30.jpg,Stage 3 ROP,Image\Stage 3 ROP\561_2021-04-20_R_30.jpg,561,male,26,710,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1263,561_2021-04-27_L_3.jpg,Stage 3 ROP,Image\Stage 3 ROP\561_2021-04-27_L_3.jpg,561,male,26,710,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1264,567_2020-09-23_L_17.jpg,Stage 3 ROP,Image\Stage 3 ROP\567_2020-09-23_L_17.jpg,567,male,27,970,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1265,567_2020-09-23_R_58.jpg,Stage 3 ROP,Image\Stage 3 ROP\567_2020-09-23_R_58.jpg,567,male,27,970,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1266,577_2007-10-24_R_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\577_2007-10-24_R_11.jpg,577,male,32,1600,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1267,581_2022-08-04_L_31.jpg,Stage 3 ROP,Image\Stage 3 ROP\581_2022-08-04_L_31.jpg,581,male,26,1010,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1268,581_2022-08-04_R_90.jpg,Stage 3 ROP,Image\Stage 3 ROP\581_2022-08-04_R_90.jpg,581,male,26,1010,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1269,586_2016-02-03_R_15.jpg,Stage 3 ROP,Image\Stage 3 ROP\586_2016-02-03_R_15.jpg,586,female,27,940,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1270,596_2021-09-01_R_30.jpg,Stage 3 ROP,Image\Stage 3 ROP\596_2021-09-01_R_30.jpg,596,male,25,750,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1271,596_2021-09-29_L_35.jpg,Stage 3 ROP,Image\Stage 3 ROP\596_2021-09-29_L_35.jpg,596,male,25,750,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1272,597_2023-10-17_L_4.jpg,Stage 3 ROP,Image\Stage 3 ROP\597_2023-10-17_L_4.jpg,597,male,31,1220,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1273,597_2023-10-23_R_47.jpg,Stage 3 ROP,Image\Stage 3 ROP\597_2023-10-23_R_47.jpg,597,male,31,1220,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1274,604_2008-04-16_R_5.jpg,Stage 3 ROP,Image\Stage 3 ROP\604_2008-04-16_R_5.jpg,604,male,32,2000,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1275,607_2020-12-16_L_14.jpg,Stage 3 ROP,Image\Stage 3 ROP\607_2020-12-16_L_14.jpg,607,female,26,770,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1276,607_2020-12-16_R_27.jpg,Stage 3 ROP,Image\Stage 3 ROP\607_2020-12-16_R_27.jpg,607,female,26,770,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1277,610_2022-10-16_R_32.jpg,Stage 3 ROP,Image\Stage 3 ROP\610_2022-10-16_R_32.jpg,610,male,29,1100,2,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1278,617_2023-01-18_L_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\617_2023-01-18_L_11.jpg,617,male,26,850,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1279,617_2023-01-18_R_28.jpg,Stage 3 ROP,Image\Stage 3 ROP\617_2023-01-18_R_28.jpg,617,male,26,850,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1280,618_2021-07-28_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\618_2021-07-28_L_10.jpg,618,female,28,1100,2,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1281,618_2021-07-28_R_41.jpg,Stage 3 ROP,Image\Stage 3 ROP\618_2021-07-28_R_41.jpg,618,female,28,1100,2,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1282,625_2018-02-28_R_2.jpg,Stage 3 ROP,Image\Stage 3 ROP\625_2018-02-28_R_2.jpg,625,male,26,740,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1283,62_2021-08-18_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\62_2021-08-18_L_10.jpg,62,male,27,830,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1284,62_2021-08-18_R_41.jpg,Stage 3 ROP,Image\Stage 3 ROP\62_2021-08-18_R_41.jpg,62,male,27,830,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1285,632_2020-08-19_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\632_2020-08-19_L_10.jpg,632,male,27,1100,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1286,632_2020-08-19_R_42.jpg,Stage 3 ROP,Image\Stage 3 ROP\632_2020-08-19_R_42.jpg,632,male,27,1100,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1287,640_2019-06-19_R_17.jpg,Stage 3 ROP,Image\Stage 3 ROP\640_2019-06-19_R_17.jpg,640,male,32,3100,2,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1288,642_2009-02-18_L_26.jpg,Stage 3 ROP,Image\Stage 3 ROP\642_2009-02-18_L_26.jpg,642,male,31,1460,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1289,643_2014-04-09_R_25.jpg,Stage 3 ROP,Image\Stage 3 ROP\643_2014-04-09_R_25.jpg,643,female,29,700,2,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1290,644_2008-06-11_L_50.jpg,Stage 3 ROP,Image\Stage 3 ROP\644_2008-06-11_L_50.jpg,644,male,30,1800,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1291,645_2016-06-22_R_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\645_2016-06-22_R_10.jpg,645,male,27,930,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1292,646_2023-02-06_L_19.jpg,Stage 3 ROP,Image\Stage 3 ROP\646_2023-02-06_L_19.jpg,646,male,27,900,2,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1293,646_2023-02-06_R_52.jpg,Stage 3 ROP,Image\Stage 3 ROP\646_2023-02-06_R_52.jpg,646,male,27,900,2,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1294,648_2022-12-27_L_3.jpg,Stage 3 ROP,Image\Stage 3 ROP\648_2022-12-27_L_3.jpg,648,male,29,1600,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1295,649_2023-02-13_R_55.jpg,Stage 3 ROP,Image\Stage 3 ROP\649_2023-02-13_R_55.jpg,649,female,25,760,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1296,650_2022-11-09_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\650_2022-11-09_L_10.jpg,650,male,25,780,2,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1297,651_2012-02-08_L_22.jpg,Stage 3 ROP,Image\Stage 3 ROP\651_2012-02-08_L_22.jpg,651,male,30,1600,1,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1298,651_2012-02-08_R_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\651_2012-02-08_R_11.jpg,651,male,30,1600,1,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1299,652_2019-10-09_R_102.jpg,Stage 3 ROP,Image\Stage 3 ROP\652_2019-10-09_R_102.jpg,652,male,26,960,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1300,653_2015-10-19_R_25.jpg,Stage 3 ROP,Image\Stage 3 ROP\653_2015-10-19_R_25.jpg,653,male,30,1250,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1301,654_2022-05-26_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\654_2022-05-26_L_10.jpg,654,female,31,1350,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1302,654_2022-05-26_R_52.jpg,Stage 3 ROP,Image\Stage 3 ROP\654_2022-05-26_R_52.jpg,654,female,31,1350,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1303,656_2020-12-27_L_18.jpg,Stage 3 ROP,Image\Stage 3 ROP\656_2020-12-27_L_18.jpg,656,male,28,1100,2,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1304,657_2021-10-27_L_6.jpg,Stage 3 ROP,Image\Stage 3 ROP\657_2021-10-27_L_6.jpg,657,male,27,740,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1305,658_2021-07-27_L_5.jpg,Stage 3 ROP,Image\Stage 3 ROP\658_2021-07-27_L_5.jpg,658,male,31,1380,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1306,658_2021-07-27_R_14.jpg,Stage 3 ROP,Image\Stage 3 ROP\658_2021-07-27_R_14.jpg,658,male,31,1380,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1307,659_2022-08-04_R_31.jpg,Stage 3 ROP,Image\Stage 3 ROP\659_2022-08-04_R_31.jpg,659,male,33,1810,2,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1308,660_2021-04-15_R_55.jpg,Stage 3 ROP,Image\Stage 3 ROP\660_2021-04-15_R_55.jpg,660,male,27,650,2,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1309,661_2021-08-26_L_12.jpg,Stage 3 ROP,Image\Stage 3 ROP\661_2021-08-26_L_12.jpg,661,female,24,600,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1310,661_2021-08-26_R_37.jpg,Stage 3 ROP,Image\Stage 3 ROP\661_2021-08-26_R_37.jpg,661,female,24,600,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1311,663_2016-08-10_R_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\663_2016-08-10_R_10.jpg,663,male,27,1130,1,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1312,664_2016-11-23_R_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\664_2016-11-23_R_10.jpg,664,male,28,1100,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1313,665_2014-05-21_R_7.jpg,Stage 3 ROP,Image\Stage 3 ROP\665_2014-05-21_R_7.jpg,665,male,28,1250,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1314,666_2020-12-30_L_18.jpg,Stage 3 ROP,Image\Stage 3 ROP\666_2020-12-30_L_18.jpg,666,male,41,3830,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1315,667_2007-04-25_R_7.jpg,Stage 3 ROP,Image\Stage 3 ROP\667_2007-04-25_R_7.jpg,667,female,30,1400,2,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1316,668_2013-11-03_L_25.jpg,Stage 3 ROP,Image\Stage 3 ROP\668_2013-11-03_L_25.jpg,668,male,28,1300,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1317,669_2022-12-08_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\669_2022-12-08_L_10.jpg,669,female,26,900,1,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1318,669_2022-12-08_R_49.jpg,Stage 3 ROP,Image\Stage 3 ROP\669_2022-12-08_R_49.jpg,669,female,26,900,1,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1319,670_2017-01-25_R_17.jpg,Stage 3 ROP,Image\Stage 3 ROP\670_2017-01-25_R_17.jpg,670,female,30,1150,1,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1320,671_2007-11-21_L_14.jpg,Stage 3 ROP,Image\Stage 3 ROP\671_2007-11-21_L_14.jpg,671,male,33,1850,2,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1321,671_2007-11-21_R_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\671_2007-11-21_R_10.jpg,671,male,33,1850,2,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1322,672_2020-07-31_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\672_2020-07-31_L_10.jpg,672,female,25,760,1,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1323,673_2021-10-27_L_13.jpg,Stage 3 ROP,Image\Stage 3 ROP\673_2021-10-27_L_13.jpg,673,female,30,1450,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1324,673_2021-10-27_R_15.jpg,Stage 3 ROP,Image\Stage 3 ROP\673_2021-10-27_R_15.jpg,673,female,30,1450,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1325,674_2013-05-29_R_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\674_2013-05-29_R_11.jpg,674,male,32,1800,2,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1326,675_2020-06-13_R_37.jpg,Stage 3 ROP,Image\Stage 3 ROP\675_2020-06-13_R_37.jpg,675,male,25,800,2,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1327,676_2019-11-25_R_1.jpg,Stage 3 ROP,Image\Stage 3 ROP\676_2019-11-25_R_1.jpg,676,female,24,600,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1328,677_2019-10-16_R_28.jpg,Stage 3 ROP,Image\Stage 3 ROP\677_2019-10-16_R_28.jpg,677,male,24,720,2,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1329,678_2023-05-05_R_15.jpg,Stage 3 ROP,Image\Stage 3 ROP\678_2023-05-05_R_15.jpg,678,female,27,980,1,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1330,679_2023-10-08_L_1.jpg,Stage 3 ROP,Image\Stage 3 ROP\679_2023-10-08_L_1.jpg,679,female,26,600,1,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1331,679_2023-10-10_R_100.jpg,Stage 3 ROP,Image\Stage 3 ROP\679_2023-10-10_R_100.jpg,679,female,26,600,1,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1332,680_2022-10-19_R_30.jpg,Stage 3 ROP,Image\Stage 3 ROP\680_2022-10-19_R_30.jpg,680,male,24,640,2,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1333,681_2020-04-28_L_4.jpg,Stage 3 ROP,Image\Stage 3 ROP\681_2020-04-28_L_4.jpg,681,female,32,1680,2,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1334,681_2020-04-28_R_16.jpg,Stage 3 ROP,Image\Stage 3 ROP\681_2020-04-28_R_16.jpg,681,female,32,1680,2,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1335,682_2012-09-19_R_8.jpg,Stage 3 ROP,Image\Stage 3 ROP\682_2012-09-19_R_8.jpg,682,male,28,1150,1,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1336,683_2016-04-06_R_13.jpg,Stage 3 ROP,Image\Stage 3 ROP\683_2016-04-06_R_13.jpg,683,male,28,1200,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1337,684_2016-05-04_R_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\684_2016-05-04_R_11.jpg,684,male,27,1300,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1338,686_2012-12-18_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\686_2012-12-18_L_10.jpg,686,female,31,1400,2,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1339,686_2012-12-26_R_1.jpg,Stage 3 ROP,Image\Stage 3 ROP\686_2012-12-26_R_1.jpg,686,female,31,1400,2,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1340,687_2012-03-21_R_8.jpg,Stage 3 ROP,Image\Stage 3 ROP\687_2012-03-21_R_8.jpg,687,male,28,1100,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1341,688_2014-04-09_R_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\688_2014-04-09_R_11.jpg,688,male,30,1400,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1342,689_2023-04-14_L_6.jpg,Stage 3 ROP,Image\Stage 3 ROP\689_2023-04-14_L_6.jpg,689,male,26,710,3,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1343,689_2023-04-14_R_31.jpg,Stage 3 ROP,Image\Stage 3 ROP\689_2023-04-14_R_31.jpg,689,male,26,710,3,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1344,690_2022-12-16_L_8.jpg,Stage 3 ROP,Image\Stage 3 ROP\690_2022-12-16_L_8.jpg,690,male,29,1300,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1345,691_2016-04-27_R_12.jpg,Stage 3 ROP,Image\Stage 3 ROP\691_2016-04-27_R_12.jpg,691,male,28,1090,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1346,692_2022-06-13_L_17.jpg,Stage 3 ROP,Image\Stage 3 ROP\692_2022-06-13_L_17.jpg,692,male,27,810,2,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1347,692_2022-07-04_R_38.jpg,Stage 3 ROP,Image\Stage 3 ROP\692_2022-07-04_R_38.jpg,692,male,27,810,2,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1348,693_2019-10-09_R_26.jpg,Stage 3 ROP,Image\Stage 3 ROP\693_2019-10-09_R_26.jpg,693,female,30,1300,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1349,694_2014-05-07_L_7.jpg,Stage 3 ROP,Image\Stage 3 ROP\694_2014-05-07_L_7.jpg,694,male,28,1120,2,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1350,695_2016-06-29_R_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\695_2016-06-29_R_10.jpg,695,female,30,1500,1,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1351,696_2018-09-19_R_12.jpg,Stage 3 ROP,Image\Stage 3 ROP\696_2018-09-19_R_12.jpg,696,male,29,1150,1,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1352,697_2010-07-28_L_29.jpg,Stage 3 ROP,Image\Stage 3 ROP\697_2010-07-28_L_29.jpg,697,female,31,1470,2,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1353,698_2006-06-27_L_20.jpg,Stage 3 ROP,Image\Stage 3 ROP\698_2006-06-27_L_20.jpg,698,male,32,1700,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1354,698_2006-06-27_R_17.jpg,Stage 3 ROP,Image\Stage 3 ROP\698_2006-06-27_R_17.jpg,698,male,32,1700,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1355,699_2020-04-15_L_3.jpg,Stage 3 ROP,Image\Stage 3 ROP\699_2020-04-15_L_3.jpg,699,male,28,800,1,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1356,700_2019-10-09_R_48.jpg,Stage 3 ROP,Image\Stage 3 ROP\700_2019-10-09_R_48.jpg,700,male,26,800,2,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1357,701_2020-01-22_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\701_2020-01-22_L_10.jpg,701,female,28,990,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1358,701_2020-01-22_R_31.jpg,Stage 3 ROP,Image\Stage 3 ROP\701_2020-01-22_R_31.jpg,701,female,28,990,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1359,702_2022-02-15_L_5.jpg,Stage 3 ROP,Image\Stage 3 ROP\702_2022-02-15_L_5.jpg,702,male,30,1350,1,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1360,703_2020-08-18_R_23.jpg,Stage 3 ROP,Image\Stage 3 ROP\703_2020-08-18_R_23.jpg,703,female,30,1490,1,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1361,704_2022-04-27_L_25.jpg,Stage 3 ROP,Image\Stage 3 ROP\704_2022-04-27_L_25.jpg,704,male,36,2850,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1362,704_2022-04-27_R_74.jpg,Stage 3 ROP,Image\Stage 3 ROP\704_2022-04-27_R_74.jpg,704,male,36,2850,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1363,705_2016-11-03_R_12.jpg,Stage 3 ROP,Image\Stage 3 ROP\705_2016-11-03_R_12.jpg,705,male,32,1300,1,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1364,706_2013-11-13_L_17.jpg,Stage 3 ROP,Image\Stage 3 ROP\706_2013-11-13_L_17.jpg,706,female,31,1100,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1365,707_2022-11-14_R_32.jpg,Stage 3 ROP,Image\Stage 3 ROP\707_2022-11-14_R_32.jpg,707,female,28,1050,2,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1366,707_2022-11-15_L_27.jpg,Stage 3 ROP,Image\Stage 3 ROP\707_2022-11-15_L_27.jpg,707,female,28,1050,2,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1367,708_2023-09-25_L_3.jpg,Stage 3 ROP,Image\Stage 3 ROP\708_2023-09-25_L_3.jpg,708,male,25,840,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1368,708_2023-09-25_R_35.jpg,Stage 3 ROP,Image\Stage 3 ROP\708_2023-09-25_R_35.jpg,708,male,25,840,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1369,709_2008-05-14_L_22.jpg,Stage 3 ROP,Image\Stage 3 ROP\709_2008-05-14_L_22.jpg,709,male,31,1500,2,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1370,709_2008-05-14_R_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\709_2008-05-14_R_10.jpg,709,male,31,1500,2,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1371,710_2017-03-08_R_28.jpg,Stage 3 ROP,Image\Stage 3 ROP\710_2017-03-08_R_28.jpg,710,male,28,1500,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1372,712_2015-07-20_R_1.jpg,Stage 3 ROP,Image\Stage 3 ROP\712_2015-07-20_R_1.jpg,712,male,31,1200,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1373,713_2019-02-27_R_1.jpg,Stage 3 ROP,Image\Stage 3 ROP\713_2019-02-27_R_1.jpg,713,female,30,1180,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1374,714_2020-11-17_R_47.jpg,Stage 3 ROP,Image\Stage 3 ROP\714_2020-11-17_R_47.jpg,714,female,30,2900,1,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1375,715_2020-10-13_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\715_2020-10-13_L_10.jpg,715,male,27,900,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1376,716_2021-12-02_R_16.jpg,Stage 3 ROP,Image\Stage 3 ROP\716_2021-12-02_R_16.jpg,716,female,25,730,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1377,717_2007-12-26_R_11.jpg,Stage 3 ROP,Image\Stage 3 ROP\717_2007-12-26_R_11.jpg,717,female,37,1530,1,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1378,718_2022-02-15_R_17.jpg,Stage 3 ROP,Image\Stage 3 ROP\718_2022-02-15_R_17.jpg,718,male,29,1440,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1379,719_2008-06-18_L_58.jpg,Stage 3 ROP,Image\Stage 3 ROP\719_2008-06-18_L_58.jpg,719,male,31,1500,2,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1380,719_2008-06-18_R_25.jpg,Stage 3 ROP,Image\Stage 3 ROP\719_2008-06-18_R_25.jpg,719,male,31,1500,2,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1381,720_2008-06-23_L_69.jpg,Stage 3 ROP,Image\Stage 3 ROP\720_2008-06-23_L_69.jpg,720,male,27,1000,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1382,720_2008-06-23_R_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\720_2008-06-23_R_10.jpg,720,male,27,1000,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1383,721_2011-02-09_L_13.jpg,Stage 3 ROP,Image\Stage 3 ROP\721_2011-02-09_L_13.jpg,721,female,29,500,1,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1384,722_2019-10-09_R_34.jpg,Stage 3 ROP,Image\Stage 3 ROP\722_2019-10-09_R_34.jpg,722,female,32,2000,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1385,723_2023-06-20_L_6.jpg,Stage 3 ROP,Image\Stage 3 ROP\723_2023-06-20_L_6.jpg,723,female,23,490,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1386,724_2018-02-14_R_23.jpg,Stage 3 ROP,Image\Stage 3 ROP\724_2018-02-14_R_23.jpg,724,male,32,1900,1,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1387,725_2022-11-10_L_21.jpg,Stage 3 ROP,Image\Stage 3 ROP\725_2022-11-10_L_21.jpg,725,male,29,1250,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1388,725_2022-11-10_R_44.jpg,Stage 3 ROP,Image\Stage 3 ROP\725_2022-11-10_R_44.jpg,725,male,29,1250,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1389,726_2023-02-20_L_4.jpg,Stage 3 ROP,Image\Stage 3 ROP\726_2023-02-20_L_4.jpg,726,male,25,750,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1390,726_2023-02-20_R_19.jpg,Stage 3 ROP,Image\Stage 3 ROP\726_2023-02-20_R_19.jpg,726,male,25,750,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1391,727_2007-03-14_L_27.jpg,Stage 3 ROP,Image\Stage 3 ROP\727_2007-03-14_L_27.jpg,727,male,31,1560,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1392,728_2005-09-28_L_27.jpg,Stage 3 ROP,Image\Stage 3 ROP\728_2005-09-28_L_27.jpg,728,male,31,1600,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1393,728_2005-09-28_R_13.jpg,Stage 3 ROP,Image\Stage 3 ROP\728_2005-09-28_R_13.jpg,728,male,31,1600,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1394,729_2007-09-29_L_25.jpg,Stage 3 ROP,Image\Stage 3 ROP\729_2007-09-29_L_25.jpg,729,female,34,1300,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1395,730_2023-05-09_R_15.jpg,Stage 3 ROP,Image\Stage 3 ROP\730_2023-05-09_R_15.jpg,730,female,27,1000,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1396,730_2023-05-16_L_2.jpg,Stage 3 ROP,Image\Stage 3 ROP\730_2023-05-16_L_2.jpg,730,female,27,1000,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1397,731_2010-05-26_L_25.jpg,Stage 3 ROP,Image\Stage 3 ROP\731_2010-05-26_L_25.jpg,731,female,32,1500,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1398,731_2010-05-26_R_13.jpg,Stage 3 ROP,Image\Stage 3 ROP\731_2010-05-26_R_13.jpg,731,female,32,1500,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1399,732_2022-06-15_L_4.jpg,Stage 3 ROP,Image\Stage 3 ROP\732_2022-06-15_L_4.jpg,732,male,24,600,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1400,732_2022-06-15_R_13.jpg,Stage 3 ROP,Image\Stage 3 ROP\732_2022-06-15_R_13.jpg,732,male,24,600,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1401,733_2022-04-27_R_40.jpg,Stage 3 ROP,Image\Stage 3 ROP\733_2022-04-27_R_40.jpg,733,female,28,1000,2,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1402,734_2022-11-02_R_40.jpg,Stage 3 ROP,Image\Stage 3 ROP\734_2022-11-02_R_40.jpg,734,male,29,980,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1403,735_2022-05-06_L_24.jpg,Stage 3 ROP,Image\Stage 3 ROP\735_2022-05-06_L_24.jpg,735,male,29,1200,1,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1404,735_2022-05-06_R_30.jpg,Stage 3 ROP,Image\Stage 3 ROP\735_2022-05-06_R_30.jpg,735,male,29,1200,1,cesarean section,Stage 3 ROP,Moderate ROP,1,3,1
+1405,736_2023-09-27_L_3.jpg,Stage 3 ROP,Image\Stage 3 ROP\736_2023-09-27_L_3.jpg,736,male,27,940,2,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1406,736_2023-09-27_R_33.jpg,Stage 3 ROP,Image\Stage 3 ROP\736_2023-09-27_R_33.jpg,736,male,27,940,2,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1407,737_2018-12-03_R_19.jpg,Stage 3 ROP,Image\Stage 3 ROP\737_2018-12-03_R_19.jpg,737,male,26,730,2,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1408,738_2020-04-15_L_1.jpg,Stage 3 ROP,Image\Stage 3 ROP\738_2020-04-15_L_1.jpg,738,male,30,1400,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1409,739_2021-04-09_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\739_2021-04-09_L_10.jpg,739,female,30,1400,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1410,739_2021-04-09_R_24.jpg,Stage 3 ROP,Image\Stage 3 ROP\739_2021-04-09_R_24.jpg,739,female,30,1400,1,vaginally,Stage 3 ROP,Moderate ROP,1,0,1
+1411,740_2023-08-29_L_1.jpg,Stage 3 ROP,Image\Stage 3 ROP\740_2023-08-29_L_1.jpg,740,female,26,700,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1412,740_2023-08-29_R_108.jpg,Stage 3 ROP,Image\Stage 3 ROP\740_2023-08-29_R_108.jpg,740,female,26,700,1,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1413,741_2009-10-15_L_35.jpg,Stage 3 ROP,Image\Stage 3 ROP\741_2009-10-15_L_35.jpg,741,male,29,1000,1,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1414,742_2011-08-03_L_28.jpg,Stage 3 ROP,Image\Stage 3 ROP\742_2011-08-03_L_28.jpg,742,male,27,1140,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1415,743_2022-07-06_L_12.jpg,Stage 3 ROP,Image\Stage 3 ROP\743_2022-07-06_L_12.jpg,743,female,32,1300,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1416,743_2022-07-06_R_38.jpg,Stage 3 ROP,Image\Stage 3 ROP\743_2022-07-06_R_38.jpg,743,female,32,1300,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1417,744_2005-08-16_L_33.jpg,Stage 3 ROP,Image\Stage 3 ROP\744_2005-08-16_L_33.jpg,744,male,29,1620,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1418,744_2005-08-16_R_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\744_2005-08-16_R_10.jpg,744,male,29,1620,1,cesarean section,Stage 3 ROP,Moderate ROP,1,1,1
+1419,745_2021-12-20_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\745_2021-12-20_L_10.jpg,745,male,27,980,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1420,745_2021-12-20_R_29.jpg,Stage 3 ROP,Image\Stage 3 ROP\745_2021-12-20_R_29.jpg,745,male,27,980,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1421,746_2023-08-30_L_10.jpg,Stage 3 ROP,Image\Stage 3 ROP\746_2023-08-30_L_10.jpg,746,female,33,1600,1,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1422,746_2023-08-30_R_56.jpg,Stage 3 ROP,Image\Stage 3 ROP\746_2023-08-30_R_56.jpg,746,female,33,1600,1,cesarean section,Stage 3 ROP,Moderate ROP,1,2,1
+1423,747_2015-08-26_R_14.jpg,Stage 3 ROP,Image\Stage 3 ROP\747_2015-08-26_R_14.jpg,747,male,32,1310,1,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1424,748_2016-03-30_R_40.jpg,Stage 3 ROP,Image\Stage 3 ROP\748_2016-03-30_R_40.jpg,748,male,27,900,1,vaginally,Stage 3 ROP,Moderate ROP,1,2,1
+1425,749_2023-01-29_R_29.jpg,Stage 3 ROP,Image\Stage 3 ROP\749_2023-01-29_R_29.jpg,749,female,26,700,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1426,750_2018-11-21_R_1.jpg,Stage 3 ROP,Image\Stage 3 ROP\750_2018-11-21_R_1.jpg,750,male,26,750,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1427,750_2018-12-12_L_23.jpg,Stage 3 ROP,Image\Stage 3 ROP\750_2018-12-12_L_23.jpg,750,male,26,750,1,cesarean section,Stage 3 ROP,Moderate ROP,1,4,1
+1428,751_2016-07-06_R_13.jpg,Stage 3 ROP,Image\Stage 3 ROP\751_2016-07-06_R_13.jpg,751,male,28,1150,3,vaginally,Stage 3 ROP,Moderate ROP,1,1,1
+1429,752_2023-03-15_R_15.jpg,Stage 3 ROP,Image\Stage 3 ROP\752_2023-03-15_R_15.jpg,752,male,25,590,2,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1430,753_2012-09-05_L_32.jpg,Stage 3 ROP,Image\Stage 3 ROP\753_2012-09-05_L_32.jpg,753,female,29,1000,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1431,753_2012-09-05_R_19.jpg,Stage 3 ROP,Image\Stage 3 ROP\753_2012-09-05_R_19.jpg,753,female,29,1000,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1432,754_2009-06-19_L_32.jpg,Stage 3 ROP,Image\Stage 3 ROP\754_2009-06-19_L_32.jpg,754,male,28,1200,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1433,754_2009-06-19_R_2.jpg,Stage 3 ROP,Image\Stage 3 ROP\754_2009-06-19_R_2.jpg,754,male,28,1200,1,vaginally,Stage 3 ROP,Moderate ROP,1,3,1
+1434,755_2009-08-12_L_32.jpg,Stage 3 ROP,Image\Stage 3 ROP\755_2009-08-12_L_32.jpg,755,male,30,1540,1,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1435,755_2009-08-12_R_12.jpg,Stage 3 ROP,Image\Stage 3 ROP\755_2009-08-12_R_12.jpg,755,male,30,1540,1,cesarean section,Stage 3 ROP,Moderate ROP,1,0,1
+1436,756_2005-09-21_L_35.jpg,Stage 3 ROP,Image\Stage 3 ROP\756_2005-09-21_L_35.jpg,756,male,25,820,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1437,756_2005-09-21_R_13.jpg,Stage 3 ROP,Image\Stage 3 ROP\756_2005-09-21_R_13.jpg,756,male,25,820,1,vaginally,Stage 3 ROP,Moderate ROP,1,4,1
+1438,450_2019-12-04_L_7.jpg,Stage 4 ROP,Image\Stage 4 ROP\450_2019-12-04_L_7.jpg,450,female,28,1100,2,vaginally,Stage 4 ROP,Severe ROP,1,2,2
+1439,450_2019-12-04_R_27.jpg,Stage 4 ROP,Image\Stage 4 ROP\450_2019-12-04_R_27.jpg,450,female,28,1100,2,vaginally,Stage 4 ROP,Severe ROP,1,2,2
+1440,512_2022-06-17_L_10.jpg,Stage 4 ROP,Image\Stage 4 ROP\512_2022-06-17_L_10.jpg,512,male,27,980,1,vaginally,Stage 4 ROP,Severe ROP,1,1,2
+1441,546_2022-09-09_R_42.jpg,Stage 4 ROP,Image\Stage 4 ROP\546_2022-09-09_R_42.jpg,546,male,25,750,2,cesarean section,Stage 4 ROP,Severe ROP,1,0,2
+1442,628_2022-09-28_L_2.jpg,Stage 4 ROP,Image\Stage 4 ROP\628_2022-09-28_L_2.jpg,628,male,29,990,2,vaginally,Stage 4 ROP,Severe ROP,1,1,2
+1443,670_2017-02-15_R_20.jpg,Stage 4 ROP,Image\Stage 4 ROP\670_2017-02-15_R_20.jpg,670,female,30,1150,1,cesarean section,Stage 4 ROP,Severe ROP,1,0,2
+1444,686_2013-01-23_R_9.jpg,Stage 4 ROP,Image\Stage 4 ROP\686_2013-01-23_R_9.jpg,686,female,31,1400,2,cesarean section,Stage 4 ROP,Severe ROP,1,1,2
+1445,690_2022-12-16_L_10.jpg,Stage 4 ROP,Image\Stage 4 ROP\690_2022-12-16_L_10.jpg,690,male,29,1300,1,cesarean section,Stage 4 ROP,Severe ROP,1,4,2
+1446,690_2022-12-16_R_47.jpg,Stage 4 ROP,Image\Stage 4 ROP\690_2022-12-16_R_47.jpg,690,male,29,1300,1,cesarean section,Stage 4 ROP,Severe ROP,1,4,2
+1447,710_2017-03-08_R_38.jpg,Stage 4 ROP,Image\Stage 4 ROP\710_2017-03-08_R_38.jpg,710,male,28,1500,1,vaginally,Stage 4 ROP,Severe ROP,1,0,2
+1448,723_2023-08-15_L_12.jpg,Stage 4 ROP,Image\Stage 4 ROP\723_2023-08-15_L_12.jpg,723,female,23,490,1,vaginally,Stage 4 ROP,Severe ROP,1,3,2
+1449,723_2023-08-15_R_14.jpg,Stage 4 ROP,Image\Stage 4 ROP\723_2023-08-15_R_14.jpg,723,female,23,490,1,vaginally,Stage 4 ROP,Severe ROP,1,3,2
+1450,738_2020-07-15_L_3.jpg,Stage 4 ROP,Image\Stage 4 ROP\738_2020-07-15_L_3.jpg,738,male,30,1400,1,vaginally,Stage 4 ROP,Severe ROP,1,3,2
+1451,746_2023-08-30_R_33.jpg,Stage 4 ROP,Image\Stage 4 ROP\746_2023-08-30_R_33.jpg,746,female,33,1600,1,cesarean section,Stage 4 ROP,Severe ROP,1,2,2
+1452,758_2020-08-02_R_47.jpg,Stage 4 ROP,Image\Stage 4 ROP\758_2020-08-02_R_47.jpg,758,female,27,870,2,cesarean section,Stage 4 ROP,Severe ROP,1,1,2
+1453,759_2014-11-12_R_35.jpg,Stage 4 ROP,Image\Stage 4 ROP\759_2014-11-12_R_35.jpg,759,male,31,1400,2,vaginally,Stage 4 ROP,Severe ROP,1,4,2
+1454,760_2019-01-01_R_22.jpg,Stage 4 ROP,Image\Stage 4 ROP\760_2019-01-01_R_22.jpg,760,male,37,2550,1,cesarean section,Stage 4 ROP,Severe ROP,1,4,2
+1455,761_2021-06-18_L_13.jpg,Stage 4 ROP,Image\Stage 4 ROP\761_2021-06-18_L_13.jpg,761,female,26,810,1,cesarean section,Stage 4 ROP,Severe ROP,1,0,2
+1456,762_2023-03-01_L_10.jpg,Stage 4 ROP,Image\Stage 4 ROP\762_2023-03-01_L_10.jpg,762,male,27,800,1,vaginally,Stage 4 ROP,Severe ROP,1,3,2
+1457,762_2023-03-01_R_56.jpg,Stage 4 ROP,Image\Stage 4 ROP\762_2023-03-01_R_56.jpg,762,male,27,800,1,vaginally,Stage 4 ROP,Severe ROP,1,3,2
+1458,763_2007-10-17_L_14.jpg,Stage 4 ROP,Image\Stage 4 ROP\763_2007-10-17_L_14.jpg,763,female,31,1450,1,cesarean section,Stage 4 ROP,Severe ROP,1,3,2
+1459,764_2016-07-27_R_32.jpg,Stage 4 ROP,Image\Stage 4 ROP\764_2016-07-27_R_32.jpg,764,male,28,1310,1,cesarean section,Stage 4 ROP,Severe ROP,1,2,2
+1460,765_2013-10-16_L_39.jpg,Stage 4 ROP,Image\Stage 4 ROP\765_2013-10-16_L_39.jpg,765,female,29,1300,1,vaginally,Stage 4 ROP,Severe ROP,1,2,2
+1461,765_2013-10-16_R_5.jpg,Stage 4 ROP,Image\Stage 4 ROP\765_2013-10-16_R_5.jpg,765,female,29,1300,1,vaginally,Stage 4 ROP,Severe ROP,1,2,2
+1462,766_2013-09-09_R_3.jpg,Stage 4 ROP,Image\Stage 4 ROP\766_2013-09-09_R_3.jpg,766,male,30,1200,1,vaginally,Stage 4 ROP,Severe ROP,1,1,2
+1463,767_2021-12-10_L_37.jpg,Stage 4 ROP,Image\Stage 4 ROP\767_2021-12-10_L_37.jpg,767,male,30,1400,1,vaginally,Stage 4 ROP,Severe ROP,1,1,2
+1464,768_2008-08-06_L_5.jpg,Stage 4 ROP,Image\Stage 4 ROP\768_2008-08-06_L_5.jpg,768,male,33,2150,1,vaginally,Stage 4 ROP,Severe ROP,1,2,2
+1465,769_2012-09-26_R_5.jpg,Stage 4 ROP,Image\Stage 4 ROP\769_2012-09-26_R_5.jpg,769,male,30,1000,1,vaginally,Stage 4 ROP,Severe ROP,1,0,2
+1466,770_2022-04-19_R_64.jpg,Stage 4 ROP,Image\Stage 4 ROP\770_2022-04-19_R_64.jpg,770,male,30,1330,2,cesarean section,Stage 4 ROP,Severe ROP,1,2,2
+1467,770_2022-07-13_R_21.jpg,Stage 4 ROP,Image\Stage 4 ROP\770_2022-07-13_R_21.jpg,770,male,30,1330,2,cesarean section,Stage 4 ROP,Severe ROP,1,2,2
+1468,771_2016-02-03_R_12.jpg,Stage 4 ROP,Image\Stage 4 ROP\771_2016-02-03_R_12.jpg,771,male,29,1250,1,cesarean section,Stage 4 ROP,Severe ROP,1,4,2
+1469,772_2023-07-05_L_14.jpg,Stage 4 ROP,Image\Stage 4 ROP\772_2023-07-05_L_14.jpg,772,female,40,3450,1,vaginally,Stage 4 ROP,Severe ROP,1,4,2
+1470,772_2023-07-05_R_50.jpg,Stage 4 ROP,Image\Stage 4 ROP\772_2023-07-05_R_50.jpg,772,female,40,3450,1,vaginally,Stage 4 ROP,Severe ROP,1,4,2
+1471,773_2023-10-27_R_26.jpg,Stage 4 ROP,Image\Stage 4 ROP\773_2023-10-27_R_26.jpg,773,male,25,680,1,vaginally,Stage 4 ROP,Severe ROP,1,3,2
+1472,773_2023-10-27_R_27.jpg,Stage 4 ROP,Image\Stage 4 ROP\773_2023-10-27_R_27.jpg,773,male,25,680,1,vaginally,Stage 4 ROP,Severe ROP,1,3,2
+1473,775_2023-09-19_L_2.jpg,Stage 4 ROP,Image\Stage 4 ROP\775_2023-09-19_L_2.jpg,775,male,36,750,1,cesarean section,Stage 4 ROP,Severe ROP,1,1,2
+1474,775_2023-09-19_R_41.jpg,Stage 4 ROP,Image\Stage 4 ROP\775_2023-09-19_R_41.jpg,775,male,36,750,1,cesarean section,Stage 4 ROP,Severe ROP,1,1,2
+1475,776_2022-11-30_L_14.jpg,Stage 4 ROP,Image\Stage 4 ROP\776_2022-11-30_L_14.jpg,776,male,26,780,1,vaginally,Stage 4 ROP,Severe ROP,1,3,2
+1476,777_2011-11-18_R_14.jpg,Stage 4 ROP,Image\Stage 4 ROP\777_2011-11-18_R_14.jpg,777,male,33,1500,1,cesarean section,Stage 4 ROP,Severe ROP,1,0,2
+1477,778_2022-06-22_L_10.jpg,Stage 4 ROP,Image\Stage 4 ROP\778_2022-06-22_L_10.jpg,778,male,32,2110,1,vaginally,Stage 4 ROP,Severe ROP,1,1,2
+1478,779_2009-10-23_L_28.jpg,Stage 4 ROP,Image\Stage 4 ROP\779_2009-10-23_L_28.jpg,779,male,31,1700,2,vaginally,Stage 4 ROP,Severe ROP,1,4,2
+1479,779_2009-10-23_R_1.jpg,Stage 4 ROP,Image\Stage 4 ROP\779_2009-10-23_R_1.jpg,779,male,31,1700,2,vaginally,Stage 4 ROP,Severe ROP,1,4,2
+1480,780_2022-06-01_R_38.jpg,Stage 4 ROP,Image\Stage 4 ROP\780_2022-06-01_R_38.jpg,780,male,39,3000,1,cesarean section,Stage 4 ROP,Severe ROP,1,2,2
+1481,781_2020-04-15_L_16.jpg,Stage 4 ROP,Image\Stage 4 ROP\781_2020-04-15_L_16.jpg,781,female,37,1400,1,cesarean section,Stage 4 ROP,Severe ROP,1,3,2
+1482,782_2019-01-16_R_6.jpg,Stage 4 ROP,Image\Stage 4 ROP\782_2019-01-16_R_6.jpg,782,male,35,1600,1,vaginally,Stage 4 ROP,Severe ROP,1,0,2
+1483,783_2023-10-25_R_34.jpg,Stage 4 ROP,Image\Stage 4 ROP\783_2023-10-25_R_34.jpg,783,female,27,960,2,cesarean section,Stage 4 ROP,Severe ROP,1,1,2
+1484,784_2021-09-22_L_11.jpg,Stage 4 ROP,Image\Stage 4 ROP\784_2021-09-22_L_11.jpg,784,male,25,760,1,vaginally,Stage 4 ROP,Severe ROP,1,0,2
+1485,784_2021-11-17_R_23.jpg,Stage 4 ROP,Image\Stage 4 ROP\784_2021-11-17_R_23.jpg,784,male,25,760,1,vaginally,Stage 4 ROP,Severe ROP,1,0,2
+1486,785_2019-10-09_L_1.jpg,Stage 4 ROP,Image\Stage 4 ROP\785_2019-10-09_L_1.jpg,785,male,26,750,2,vaginally,Stage 4 ROP,Severe ROP,1,0,2
+1487,785_2019-10-09_R_24.jpg,Stage 4 ROP,Image\Stage 4 ROP\785_2019-10-09_R_24.jpg,785,male,26,750,2,vaginally,Stage 4 ROP,Severe ROP,1,0,2
+1488,786_2009-03-27_R_19.jpg,Stage 4 ROP,Image\Stage 4 ROP\786_2009-03-27_R_19.jpg,786,male,28,1150,2,vaginally,Stage 4 ROP,Severe ROP,1,3,2
+1489,787_2023-03-02_R_31.jpg,Stage 4 ROP,Image\Stage 4 ROP\787_2023-03-02_R_31.jpg,787,male,31,1150,1,cesarean section,Stage 4 ROP,Severe ROP,1,2,2
+1490,788_2013-08-30_L_25.jpg,Stage 4 ROP,Image\Stage 4 ROP\788_2013-08-30_L_25.jpg,788,female,29,1270,2,cesarean section,Stage 4 ROP,Severe ROP,1,1,2
+1491,788_2013-08-30_R_11.jpg,Stage 4 ROP,Image\Stage 4 ROP\788_2013-08-30_R_11.jpg,788,female,29,1270,2,cesarean section,Stage 4 ROP,Severe ROP,1,1,2
+1492,789_2015-11-04_R_56.jpg,Stage 4 ROP,Image\Stage 4 ROP\789_2015-11-04_R_56.jpg,789,male,26,850,1,cesarean section,Stage 4 ROP,Severe ROP,1,2,2
+1493,790_2011-01-31_R_19.jpg,Stage 4 ROP,Image\Stage 4 ROP\790_2011-01-31_R_19.jpg,790,male,28,1450,1,vaginally,Stage 4 ROP,Severe ROP,1,3,2
+1494,791_2020-08-19_R_11.jpg,Stage 4 ROP,Image\Stage 4 ROP\791_2020-08-19_R_11.jpg,791,male,38,3000,1,vaginally,Stage 4 ROP,Severe ROP,1,0,2
+1495,800_2018-12-12_L_13.jpg,Stage 4 ROP,Image\Stage 4 ROP\800_2018-12-12_L_13.jpg,800,male,28,1400,1,vaginally,Stage 4 ROP,Severe ROP,1,4,2
+1496,805_2019-12-18_R_33.jpg,Stage 4 ROP,Image\Stage 4 ROP\805_2019-12-18_R_33.jpg,805,male,34,1550,1,cesarean section,Stage 4 ROP,Severe ROP,1,4,2
+1497,300_2010-01-27_L_15.jpg,Stage 5 ROP,Image\Stage 5 ROP\300_2010-01-27_L_15.jpg,300,female,28,1080,1,vaginally,Stage 5 ROP,Severe ROP,1,4,2
+1498,628_2022-09-28_L_3.jpg,Stage 5 ROP,Image\Stage 5 ROP\628_2022-09-28_L_3.jpg,628,male,29,990,2,vaginally,Stage 5 ROP,Severe ROP,1,1,2
+1499,710_2017-03-22_R_23.jpg,Stage 5 ROP,Image\Stage 5 ROP\710_2017-03-22_R_23.jpg,710,male,28,1500,1,vaginally,Stage 5 ROP,Severe ROP,1,0,2
+1500,723_2023-08-15_L_11.jpg,Stage 5 ROP,Image\Stage 5 ROP\723_2023-08-15_L_11.jpg,723,female,23,490,1,vaginally,Stage 5 ROP,Severe ROP,1,3,2
+1501,723_2023-08-15_R_15.jpg,Stage 5 ROP,Image\Stage 5 ROP\723_2023-08-15_R_15.jpg,723,female,23,490,1,vaginally,Stage 5 ROP,Severe ROP,1,3,2
+1502,768_2008-07-10_L_17.jpg,Stage 5 ROP,Image\Stage 5 ROP\768_2008-07-10_L_17.jpg,768,male,33,2150,1,vaginally,Stage 5 ROP,Severe ROP,1,2,2
+1503,774_2019-12-18_R_20.jpg,Stage 5 ROP,Image\Stage 5 ROP\774_2019-12-18_R_20.jpg,774,male,32,1850,1,cesarean section,Stage 5 ROP,Severe ROP,1,1,2
+1504,779_2009-10-23_R_19.jpg,Stage 5 ROP,Image\Stage 5 ROP\779_2009-10-23_R_19.jpg,779,male,31,1700,2,vaginally,Stage 5 ROP,Severe ROP,1,4,2
+1505,781_2020-07-01_L_1.jpg,Stage 5 ROP,Image\Stage 5 ROP\781_2020-07-01_L_1.jpg,781,female,37,1400,1,cesarean section,Stage 5 ROP,Severe ROP,1,3,2
+1506,782_2019-01-30_R_13.jpg,Stage 5 ROP,Image\Stage 5 ROP\782_2019-01-30_R_13.jpg,782,male,35,1600,1,vaginally,Stage 5 ROP,Severe ROP,1,0,2
+1507,784_2021-11-24_R_46.jpg,Stage 5 ROP,Image\Stage 5 ROP\784_2021-11-24_R_46.jpg,784,male,25,760,1,vaginally,Stage 5 ROP,Severe ROP,1,0,2
+1508,792_2022-07-20_R_36.jpg,Stage 5 ROP,Image\Stage 5 ROP\792_2022-07-20_R_36.jpg,792,female,38,2350,1,cesarean section,Stage 5 ROP,Severe ROP,1,0,2
+1509,793_2019-11-13_R_17.jpg,Stage 5 ROP,Image\Stage 5 ROP\793_2019-11-13_R_17.jpg,793,male,28,1380,2,vaginally,Stage 5 ROP,Severe ROP,1,1,2
+1510,794_2016-01-07_R_1.jpg,Stage 5 ROP,Image\Stage 5 ROP\794_2016-01-07_R_1.jpg,794,male,39,4000,2,cesarean section,Stage 5 ROP,Severe ROP,1,4,2
+1511,795_2023-03-29_R_33.jpg,Stage 5 ROP,Image\Stage 5 ROP\795_2023-03-29_R_33.jpg,795,male,31,1420,1,vaginally,Stage 5 ROP,Severe ROP,1,4,2
+1512,796_2020-11-04_L_12.jpg,Stage 5 ROP,Image\Stage 5 ROP\796_2020-11-04_L_12.jpg,796,male,30,1460,1,vaginally,Stage 5 ROP,Severe ROP,1,1,2
+1513,797_2022-05-09_L_11.jpg,Stage 5 ROP,Image\Stage 5 ROP\797_2022-05-09_L_11.jpg,797,female,42,3150,1,vaginally,Stage 5 ROP,Severe ROP,1,2,2
+1514,797_2022-05-09_R_34.jpg,Stage 5 ROP,Image\Stage 5 ROP\797_2022-05-09_R_34.jpg,797,female,42,3150,1,vaginally,Stage 5 ROP,Severe ROP,1,2,2
+1515,798_2019-09-11_R_26.jpg,Stage 5 ROP,Image\Stage 5 ROP\798_2019-09-11_R_26.jpg,798,female,32,1400,2,cesarean section,Stage 5 ROP,Severe ROP,1,2,2
+1516,799_2021-11-24_L_20.jpg,Stage 5 ROP,Image\Stage 5 ROP\799_2021-11-24_L_20.jpg,799,male,37,2600,2,cesarean section,Stage 5 ROP,Severe ROP,1,2,2
+1517,800_2018-11-20_R_10.jpg,Stage 5 ROP,Image\Stage 5 ROP\800_2018-11-20_R_10.jpg,800,male,28,1400,1,vaginally,Stage 5 ROP,Severe ROP,1,4,2
+1518,801_2020-05-29_R_22.jpg,Stage 5 ROP,Image\Stage 5 ROP\801_2020-05-29_R_22.jpg,801,male,29,1200,1,vaginally,Stage 5 ROP,Severe ROP,1,3,2
+1519,802_2012-04-13_R_4.jpg,Stage 5 ROP,Image\Stage 5 ROP\802_2012-04-13_R_4.jpg,802,male,30,1250,1,vaginally,Stage 5 ROP,Severe ROP,1,3,2
+1520,803_2023-08-30_L_33.jpg,Stage 5 ROP,Image\Stage 5 ROP\803_2023-08-30_L_33.jpg,803,male,27,1100,2,vaginally,Stage 5 ROP,Severe ROP,1,2,2
+1521,804_2019-09-18_L_19.jpg,Stage 5 ROP,Image\Stage 5 ROP\804_2019-09-18_L_19.jpg,804,female,30,1150,1,vaginally,Stage 5 ROP,Severe ROP,1,1,2
+1522,804_2019-09-18_R_25.jpg,Stage 5 ROP,Image\Stage 5 ROP\804_2019-09-18_R_25.jpg,804,female,30,1150,1,vaginally,Stage 5 ROP,Severe ROP,1,1,2
+1523,806_2013-11-13_R_2.jpg,Stage 5 ROP,Image\Stage 5 ROP\806_2013-11-13_R_2.jpg,806,male,28,1000,1,vaginally,Stage 5 ROP,Severe ROP,1,4,2
+1524,807_2008-05-28_R_10.jpg,Stage 5 ROP,Image\Stage 5 ROP\807_2008-05-28_R_10.jpg,807,male,30,1530,1,vaginally,Stage 5 ROP,Severe ROP,1,3,2
+1525,808_2023-04-12_L_11.jpg,Stage 5 ROP,Image\Stage 5 ROP\808_2023-04-12_L_11.jpg,808,male,33,1100,2,cesarean section,Stage 5 ROP,Severe ROP,1,0,2
+1526,809_2022-08-24_L_28.jpg,Stage 5 ROP,Image\Stage 5 ROP\809_2022-08-24_L_28.jpg,809,female,41,4200,1,vaginally,Stage 5 ROP,Severe ROP,1,0,2
